@@ -1,0 +1,3440 @@
+[
+  {
+    "chunk_id": "p04_c000",
+    "page_number": 4,
+    "section_number": "",
+    "section_title": "Overview",
+    "source": "NICE_Hypertension_NG136",
+    "text": "Antenatal and postnatal mental health: clinical management and service guidance (CG192)\n\nThis guideline replaces CG45.\n\nThis guideline partially replaces CG62.\n\nThis guideline is the basis of QS115.\n\n# Overview",
+    "char_count": 210
+  },
+  {
+    "chunk_id": "p04_c001",
+    "page_number": 4,
+    "section_number": "",
+    "section_title": "",
+    "source": "NICE_Hypertension_NG136",
+    "text": "This guideline covers recognising, assessing and treating mental health problems in women who are planning to have a baby, are pregnant, or have had a baby or been pregnant in the past year",
+    "char_count": 189
+  },
+  {
+    "chunk_id": "p04_c002",
+    "page_number": 4,
+    "section_number": "",
+    "section_title": "",
+    "source": "NICE_Hypertension_NG136",
+    "text": ". It covers depression, anxiety disorders, eating disorders, drug- and alcohol-use disorders and severe mental illness (such as psychosis, bipolar disorder and schizophrenia)",
+    "char_count": 174
+  },
+  {
+    "chunk_id": "p04_c003",
+    "page_number": 4,
+    "section_number": "",
+    "section_title": "",
+    "source": "NICE_Hypertension_NG136",
+    "text": ". It promotes early detection and good management of mental health problems to improve women's quality of life during pregnancy and in the year after giving birth.",
+    "char_count": 163
+  },
+  {
+    "chunk_id": "p04_c004",
+    "page_number": 4,
+    "section_number": "",
+    "section_title": "Who is it for?",
+    "source": "NICE_Hypertension_NG136",
+    "text": "**? Anti-epileptic medicines:** Follow the Medicines and Healthcare products Regulatory Agency (MHRA) safety advice on the use of valproate, valproate use in people younger than 55 years, valproate use in women and girls **and** anti-epileptic drugs in pregnancy.\n\n## Who is it for?",
+    "char_count": 282
+  },
+  {
+    "chunk_id": "p04_c005",
+    "page_number": 4,
+    "section_number": "",
+    "section_title": "Who is it for?",
+    "source": "NICE_Hypertension_NG136",
+    "text": "## Who is it for?\n\n- Healthcare professionals\n\n- Commissioners\n\n- Social services\n\n- Voluntary and private sectors\n\n- Women who have, or are at risk of, mental health disorders during pregnancy and the postnatal period and their partners, families and carers\n\n48",
+    "char_count": 262
+  },
+  {
+    "chunk_id": "p05_c000",
+    "page_number": 5,
+    "section_number": "",
+    "section_title": "Recommendations",
+    "source": "NICE_Hypertension_NG136",
+    "text": "Antenatal and postnatal mental health: clinical management and service guidance (CG192)\n\n# Recommendations\n\nPeople have the right to be involved in discussions and make informed decisions about their care, as described in NICE's information on making decisions about your care.",
+    "char_count": 277
+  },
+  {
+    "chunk_id": "p05_c001",
+    "page_number": 5,
+    "section_number": "",
+    "section_title": "",
+    "source": "NICE_Hypertension_NG136",
+    "text": "Making decisions using NICE guidelines explains how we use words to show the strength (or certainty) of our recommendations, and has information about prescribing medicines (including off-label use), professional guidelines, standards and laws (including on consent and mental capacity), and",
+    "char_count": 291
+  },
+  {
+    "chunk_id": "p05_c002",
+    "page_number": 5,
+    "section_number": "",
+    "section_title": "",
+    "source": "NICE_Hypertension_NG136",
+    "text": "use), professional guidelines, standards and laws (including on consent and mental capacity), and safeguarding.",
+    "char_count": 111
+  },
+  {
+    "chunk_id": "p05_c003",
+    "page_number": 5,
+    "section_number": "",
+    "section_title": "",
+    "source": "NICE_Hypertension_NG136",
+    "text": "Health and care professionals should follow our general guidelines for people delivering care:\n\n- babies, children and young people's experience of healthcare\n\n- decision making and mental capacity\n\n- medicines adherence",
+    "char_count": 220
+  },
+  {
+    "chunk_id": "p05_c004",
+    "page_number": 5,
+    "section_number": "",
+    "section_title": "",
+    "source": "NICE_Hypertension_NG136",
+    "text": "- decision making and mental capacity\n\n- medicines adherence\n\n- medicines associated with dependence or withdrawal symptoms: safe prescribing and withdrawal management for adults\n\n- medicines optimisation\n\n- multimorbidity\n\n- service user experience in adult mental health\n\n- shared decision making",
+    "char_count": 298
+  },
+  {
+    "chunk_id": "p05_c005",
+    "page_number": 5,
+    "section_number": "",
+    "section_title": "",
+    "source": "NICE_Hypertension_NG136",
+    "text": "- multimorbidity\n\n- service user experience in adult mental health\n\n- shared decision making\n\n- transition from children's to adults' services.\n\n48",
+    "char_count": 147
+  },
+  {
+    "chunk_id": "p06_c000",
+    "page_number": 6,
+    "section_number": "1.1",
+    "section_title": "Using this guideline in conjunction with other NICE guideline",
+    "source": "NICE_Hypertension_NG136",
+    "text": "Antenatal and postnatal mental health: clinical management and service guidance (CG192)\n\n# 1.1 Using this guideline in conjunction with other NICE guidelines\n\n## Assessment and treatment in pregnancy and the postnatal period",
+    "char_count": 224
+  },
+  {
+    "chunk_id": "p06_c001",
+    "page_number": 6,
+    "section_number": "1.1.1",
+    "section_title": "Use this guideline in conjunction with the NICE guideline for",
+    "source": "NICE_Hypertension_NG136",
+    "text": "1.1.1 Use this guideline in conjunction with the NICE guideline for a specific mental health problem (see our topic pages on pregnancy and mental health and wellbeing) to inform assessment and treatment decisions in pregnancy and the postnatal period, and take into account:",
+    "char_count": 274
+  },
+  {
+    "chunk_id": "p06_c002",
+    "page_number": 6,
+    "section_number": "",
+    "section_title": "",
+    "source": "NICE_Hypertension_NG136",
+    "text": "- any variations in the nature and presentation of the mental health problem in pregnancy or the postnatal period\n\n- the setting for assessment and treatment (for example, primary or secondary care services or in the community, the home or remotely by phone or computer)",
+    "char_count": 270
+  },
+  {
+    "chunk_id": "p06_c003",
+    "page_number": 6,
+    "section_number": "",
+    "section_title": "",
+    "source": "NICE_Hypertension_NG136",
+    "text": "- recommendations on assessment and care planning in pregnancy and the postnatal period \n\n- recommendations 1.4.10 to 1.4.37 on starting, using and stopping treatment in pregnancy and the postnatal period",
+    "char_count": 204
+  },
+  {
+    "chunk_id": "p06_c004",
+    "page_number": 6,
+    "section_number": "1.2",
+    "section_title": "Considerations for women of childbearing potential",
+    "source": "NICE_Hypertension_NG136",
+    "text": "- recommendations 1.8.1 to 1.8.23 on treating specific mental health problems in pregnancy and the postnatal period. **[2014]**\n\n## 1.2 Considerations for women of childbearing potential\n\n1.2.1 Discuss with all women of childbearing potential who have a new, existing or past mental health problem:",
+    "char_count": 298
+  },
+  {
+    "chunk_id": "p06_c005",
+    "page_number": 6,
+    "section_number": "",
+    "section_title": "",
+    "source": "NICE_Hypertension_NG136",
+    "text": "- the use of contraception and any plans for a pregnancy\n\n- how pregnancy and childbirth might affect a mental health problem, including the risk of relapse\n\n48",
+    "char_count": 160
+  },
+  {
+    "chunk_id": "p07_c000",
+    "page_number": 7,
+    "section_number": "",
+    "section_title": "",
+    "source": "NICE_Hypertension_NG136",
+    "text": "Antenatal and postnatal mental health: clinical management and service guidance (CG192)\n\n- how a mental health problem and its treatment might affect the woman, the fetus and baby\n\n- how a mental health problem and its treatment might affect parenting. **[2014]**",
+    "char_count": 263
+  },
+  {
+    "chunk_id": "p07_c001",
+    "page_number": 7,
+    "section_number": "",
+    "section_title": "",
+    "source": "NICE_Hypertension_NG136",
+    "text": "**1.2.2** When prescribing psychotropic medication or anti-epileptics for women or girls of childbearing potential (including young girls who are likely to need treatment into their childbearing years), take account of the latest data on the risks to the fetus and baby",
+    "char_count": 269
+  },
+  {
+    "chunk_id": "p07_c002",
+    "page_number": 7,
+    "section_number": "",
+    "section_title": "",
+    "source": "NICE_Hypertension_NG136",
+    "text": ". Follow the MHRA safety advice on anti-epileptic drugs in pregnancy. **[2014, amended 2021]**",
+    "char_count": 94
+  },
+  {
+    "chunk_id": "p07_c003",
+    "page_number": 7,
+    "section_number": "",
+    "section_title": "",
+    "source": "NICE_Hypertension_NG136",
+    "text": "**1.2.3** Do not offer valproate for acute or long-term treatment of a mental health problem in women or girls of childbearing potential (including young girls who are likely to need treatment into their childbearing years), unless other options are ineffective or not tolerated and the pregnancy",
+    "char_count": 296
+  },
+  {
+    "chunk_id": "p07_c004",
+    "page_number": 7,
+    "section_number": "",
+    "section_title": "",
+    "source": "NICE_Hypertension_NG136",
+    "text": "their childbearing years), unless other options are ineffective or not tolerated and the pregnancy prevention programme is in place",
+    "char_count": 131
+  },
+  {
+    "chunk_id": "p07_c005",
+    "page_number": 7,
+    "section_number": "",
+    "section_title": "",
+    "source": "NICE_Hypertension_NG136",
+    "text": ". See the MHRA safety advice on valproate use by women and girls and valproate use in people younger than 55 years. **[2014, amended 2020]**",
+    "char_count": 140
+  },
+  {
+    "chunk_id": "p07_c006",
+    "page_number": 7,
+    "section_number": "1.3",
+    "section_title": "Principles of care in pregnancy and the postnatal period",
+    "source": "NICE_Hypertension_NG136",
+    "text": "# 1.3 Principles of care in pregnancy and the postnatal period\n\n## Supporting women and their partners, families and carers\n\n**1.3.1** Acknowledge the woman's role in caring for her baby and support her to do this in a non-judgmental and compassionate way. **[2014]**",
+    "char_count": 267
+  },
+  {
+    "chunk_id": "p07_c007",
+    "page_number": 7,
+    "section_number": "",
+    "section_title": "",
+    "source": "NICE_Hypertension_NG136",
+    "text": "**1.3.2** When working with girls and young women with a mental health problem in pregnancy or the postnatal period:\n\n- be aware of the recommendations in section 1.4 of the NICE guideline on pregnancy and complex social factors",
+    "char_count": 228
+  },
+  {
+    "chunk_id": "p07_c008",
+    "page_number": 7,
+    "section_number": "",
+    "section_title": "",
+    "source": "NICE_Hypertension_NG136",
+    "text": "- ensure continuity of care for the mental health problem if care is transferred from adolescent to adult services. **[2014]**\n\n48",
+    "char_count": 130
+  },
+  {
+    "chunk_id": "p08_c000",
+    "page_number": 8,
+    "section_number": "",
+    "section_title": "",
+    "source": "NICE_Hypertension_NG136",
+    "text": "Antenatal and postnatal mental health: clinical management and service guidance (CG192)",
+    "char_count": 87
+  },
+  {
+    "chunk_id": "p08_c001",
+    "page_number": 8,
+    "section_number": "1.3.3",
+    "section_title": "Take into account and, if appropriate, assess and address the",
+    "source": "NICE_Hypertension_NG136",
+    "text": "1.3.3 Take into account and, if appropriate, assess and address the needs of partners, families and carers that might affect a woman with a mental health problem in pregnancy and the postnatal period. These include:\n\n- the welfare of the baby and other dependent children and adults",
+    "char_count": 282
+  },
+  {
+    "chunk_id": "p08_c002",
+    "page_number": 8,
+    "section_number": "",
+    "section_title": "Coordinated care",
+    "source": "NICE_Hypertension_NG136",
+    "text": "- the welfare of the baby and other dependent children and adults\n\n- the role of the partner, family or carer in providing support\n\n- the potential effect of any mental health problem on the woman's relationship with her partner, family or carer. **[2014]**\n\n# **Coordinated care**",
+    "char_count": 281
+  },
+  {
+    "chunk_id": "p08_c003",
+    "page_number": 8,
+    "section_number": "1.3.4",
+    "section_title": "Develop an integrated care plan for a woman with a mental hea",
+    "source": "NICE_Hypertension_NG136",
+    "text": "# **Coordinated care**\n\n1.3.4 Develop an integrated care plan for a woman with a mental health problem in pregnancy and the postnatal period that sets out:\n\n- the care and treatment for the mental health problem\n\n- the roles of all healthcare professionals, including who is responsible for:",
+    "char_count": 291
+  },
+  {
+    "chunk_id": "p08_c004",
+    "page_number": 8,
+    "section_number": "",
+    "section_title": "",
+    "source": "NICE_Hypertension_NG136",
+    "text": "- the roles of all healthcare professionals, including who is responsible for:\n\n- coordinating the integrated care plan\n\n- the schedule of monitoring\n\n- providing the interventions and agreeing the outcomes with the woman. **[2014]**",
+    "char_count": 233
+  },
+  {
+    "chunk_id": "p08_c005",
+    "page_number": 8,
+    "section_number": "1.3.5",
+    "section_title": "The healthcare professional responsible for coordinating the",
+    "source": "NICE_Hypertension_NG136",
+    "text": "- providing the interventions and agreeing the outcomes with the woman. **[2014]**\n\n1.3.5 The healthcare professional responsible for coordinating the integrated care plan should ensure that:\n\n- everyone involved in a woman's care is aware of their responsibilities",
+    "char_count": 265
+  },
+  {
+    "chunk_id": "p08_c006",
+    "page_number": 8,
+    "section_number": "",
+    "section_title": "",
+    "source": "NICE_Hypertension_NG136",
+    "text": "- everyone involved in a woman's care is aware of their responsibilities\n\n- there is effective sharing of information with all services involved and with the woman herself\n\n- mental health (including mental wellbeing) is taken into account as part of all care plans",
+    "char_count": 265
+  },
+  {
+    "chunk_id": "p08_c007",
+    "page_number": 8,
+    "section_number": "",
+    "section_title": "",
+    "source": "NICE_Hypertension_NG136",
+    "text": "- mental health (including mental wellbeing) is taken into account as part of all care plans\n\n- all interventions for mental health problems are delivered in a timely manner, taking into account the stage of the pregnancy or age of the baby. **[2014]**\n\n48",
+    "char_count": 256
+  },
+  {
+    "chunk_id": "p09_c000",
+    "page_number": 9,
+    "section_number": "1.4",
+    "section_title": "Treatment decisions, advice and monitoring for women who are",
+    "source": "NICE_Hypertension_NG136",
+    "text": "Antenatal and postnatal mental health: clinical management and service guidance (CG192)\n\n# 1.4 Treatment decisions, advice and monitoring for women who are planning a pregnancy, are pregnant or are in the postnatal period\n\n## Information and advice",
+    "char_count": 248
+  },
+  {
+    "chunk_id": "p09_c001",
+    "page_number": 9,
+    "section_number": "1.4.1",
+    "section_title": "Provide culturally relevant information on mental health prob",
+    "source": "NICE_Hypertension_NG136",
+    "text": "1.4.1 Provide culturally relevant information on mental health problems in pregnancy and the postnatal period to the woman and, if she agrees, her partner, family or carer",
+    "char_count": 171
+  },
+  {
+    "chunk_id": "p09_c002",
+    "page_number": 9,
+    "section_number": "",
+    "section_title": "",
+    "source": "NICE_Hypertension_NG136",
+    "text": ". Ensure that the woman understands that mental health problems are not uncommon during these periods and instil hope about treatment. **[2014]**",
+    "char_count": 145
+  },
+  {
+    "chunk_id": "p09_c003",
+    "page_number": 9,
+    "section_number": "1.4.2",
+    "section_title": "Consider referring a woman to a secondary mental health servi",
+    "source": "NICE_Hypertension_NG136",
+    "text": "1.4.2 Consider referring a woman to a secondary mental health service (preferably a specialist perinatal mental health service) for preconception counselling if she has a current or past severe mental health problem and is planning a pregnancy. **[2014]**",
+    "char_count": 255
+  },
+  {
+    "chunk_id": "p09_c004",
+    "page_number": 9,
+    "section_number": "1.4.3",
+    "section_title": "Discuss treatment and prevention options and any particular c",
+    "source": "NICE_Hypertension_NG136",
+    "text": "1.4.3 Discuss treatment and prevention options and any particular concerns the woman has about the pregnancy or the fetus or baby. **[2014]**",
+    "char_count": 141
+  },
+  {
+    "chunk_id": "p09_c005",
+    "page_number": 9,
+    "section_number": "1.4.4",
+    "section_title": "Discuss breastfeeding with all women who may need to take psy",
+    "source": "NICE_Hypertension_NG136",
+    "text": "1.4.4 Discuss breastfeeding with all women who may need to take psychotropic medication in pregnancy or in the postnatal period",
+    "char_count": 127
+  },
+  {
+    "chunk_id": "p09_c006",
+    "page_number": 9,
+    "section_number": "",
+    "section_title": "",
+    "source": "NICE_Hypertension_NG136",
+    "text": ". Explain to them the benefits of breastfeeding, the potential risks associated with taking psychotropic medication when breastfeeding and with stopping some medications in order to breastfeed",
+    "char_count": 192
+  },
+  {
+    "chunk_id": "p09_c007",
+    "page_number": 9,
+    "section_number": "",
+    "section_title": "",
+    "source": "NICE_Hypertension_NG136",
+    "text": ". Discuss treatment options that would enable a woman to breastfeed if she wishes and support women who choose not to breastfeed. **[2014]**",
+    "char_count": 140
+  },
+  {
+    "chunk_id": "p09_c008",
+    "page_number": 9,
+    "section_number": "1.4.5",
+    "section_title": "If needed, seek more detailed advice about the possible risks",
+    "source": "NICE_Hypertension_NG136",
+    "text": "1.4.5 If needed, seek more detailed advice about the possible risks of mental health problems or the benefits and harms of treatment in pregnancy and the postnatal period from a secondary mental health service (preferably a specialist perinatal mental health service)",
+    "char_count": 267
+  },
+  {
+    "chunk_id": "p09_c009",
+    "page_number": 9,
+    "section_number": "",
+    "section_title": "",
+    "source": "NICE_Hypertension_NG136",
+    "text": ". This might include advice on the risks and possible harms of taking psychotropic medication while breastfeeding and how medication might affect a woman's ability to care for her baby (for example, sedation). **[2014]**",
+    "char_count": 220
+  },
+  {
+    "chunk_id": "p09_c010",
+    "page_number": 9,
+    "section_number": "1.4.6",
+    "section_title": "Mental health professionals providing detailed advice about t",
+    "source": "NICE_Hypertension_NG136",
+    "text": "1.4.6 Mental health professionals providing detailed advice about the possible risks of mental health problems or the benefits and harms of treatment in pregnancy and the postnatal period should include discussion of the following, depending on\n\n48",
+    "char_count": 248
+  },
+  {
+    "chunk_id": "p10_c000",
+    "page_number": 10,
+    "section_number": "",
+    "section_title": "",
+    "source": "NICE_Hypertension_NG136",
+    "text": "Antenatal and postnatal mental health: clinical management and service guidance (CG192)\n\nindividual circumstances:\n\n- the uncertainty about the benefits, risks and harms of treatments for mental health problems in pregnancy and the postnatal period",
+    "char_count": 248
+  },
+  {
+    "chunk_id": "p10_c001",
+    "page_number": 10,
+    "section_number": "",
+    "section_title": "",
+    "source": "NICE_Hypertension_NG136",
+    "text": "- the likely benefits of each treatment, taking into account the severity of the mental health problem\n\n- the woman's response to any previous treatment",
+    "char_count": 152
+  },
+  {
+    "chunk_id": "p10_c002",
+    "page_number": 10,
+    "section_number": "",
+    "section_title": "",
+    "source": "NICE_Hypertension_NG136",
+    "text": "- the woman's response to any previous treatment\n\n- the background risk of harm to the woman and the fetus or baby associated with the mental health problem and the risk to mental health and parenting associated with no treatment",
+    "char_count": 229
+  },
+  {
+    "chunk_id": "p10_c003",
+    "page_number": 10,
+    "section_number": "",
+    "section_title": "",
+    "source": "NICE_Hypertension_NG136",
+    "text": "- the possibility of the sudden onset of symptoms of mental health problems in pregnancy and the postnatal period, particularly in the first few weeks after childbirth (for example, in bipolar disorder)\n\n- the risks or harms to the woman and the fetus or baby associated with each treatment option",
+    "char_count": 297
+  },
+  {
+    "chunk_id": "p10_c004",
+    "page_number": 10,
+    "section_number": "",
+    "section_title": "",
+    "source": "NICE_Hypertension_NG136",
+    "text": "- the risks or harms to the woman and the fetus or baby associated with each treatment option\n\n- the need for prompt treatment because of the potential effect of an untreated mental health problem on the fetus or baby",
+    "char_count": 217
+  },
+  {
+    "chunk_id": "p10_c005",
+    "page_number": 10,
+    "section_number": "",
+    "section_title": "",
+    "source": "NICE_Hypertension_NG136",
+    "text": "- the risk or harms to the woman and the fetus or baby associated with stopping or changing a treatment. **[2014]**",
+    "char_count": 115
+  },
+  {
+    "chunk_id": "p10_c006",
+    "page_number": 10,
+    "section_number": "1.4.7",
+    "section_title": "When discussing likely benefits and risks of treatment with t",
+    "source": "NICE_Hypertension_NG136",
+    "text": "1.4.7 When discussing likely benefits and risks of treatment with the woman (and, if she agrees, her partner, family or carer), acknowledge the woman's central role in reaching a decision about her treatment and that the role of the professional is to inform that decision with balanced and",
+    "char_count": 290
+  },
+  {
+    "chunk_id": "p10_c007",
+    "page_number": 10,
+    "section_number": "",
+    "section_title": "",
+    "source": "NICE_Hypertension_NG136",
+    "text": "her treatment and that the role of the professional is to inform that decision with balanced and up-to-date information and advice",
+    "char_count": 130
+  },
+  {
+    "chunk_id": "p10_c008",
+    "page_number": 10,
+    "section_number": "",
+    "section_title": "",
+    "source": "NICE_Hypertension_NG136",
+    "text": ". **[2014]**",
+    "char_count": 12
+  },
+  {
+    "chunk_id": "p10_c009",
+    "page_number": 10,
+    "section_number": "1.4.8",
+    "section_title": "Healthcare professionals working in universal services and th",
+    "source": "NICE_Hypertension_NG136",
+    "text": "# **Monitoring and increased contact**\n\n1.4.8 Healthcare professionals working in universal services and those caring for women in mental health services should:\n\n- assess the level of contact and support needed by women with a mental\n\n48",
+    "char_count": 238
+  },
+  {
+    "chunk_id": "p11_c000",
+    "page_number": 11,
+    "section_number": "",
+    "section_title": "Antenatal and postnatal mental health: clinical management and service guidance (CG192)",
+    "source": "NICE_Hypertension_NG136",
+    "text": "# Antenatal and postnatal mental health: clinical management and service guidance (CG192)\n\nhealth problem (current or past) and those at risk of developing one\n\n- agree the level of contact and support with each woman, including those who are not having treatment for a mental health problem",
+    "char_count": 291
+  },
+  {
+    "chunk_id": "p11_c001",
+    "page_number": 11,
+    "section_number": "",
+    "section_title": "",
+    "source": "NICE_Hypertension_NG136",
+    "text": "- monitor regularly for symptoms throughout pregnancy and the postnatal period, particularly in the first few weeks after childbirth. **[2014]**",
+    "char_count": 144
+  },
+  {
+    "chunk_id": "p11_c002",
+    "page_number": 11,
+    "section_number": "",
+    "section_title": "",
+    "source": "NICE_Hypertension_NG136",
+    "text": "**1.4.9** Discuss and plan how symptoms will be monitored (for example, by using validated self-report questionnaires, such as the Edinburgh Postnatal Depression Scale [EPDS], Patient Health Questionnaire [PHQ-9] or the 7-item Generalized Anxiety Disorder scale [GAD-7]). **[2014]**",
+    "char_count": 282
+  },
+  {
+    "chunk_id": "p11_c003",
+    "page_number": 11,
+    "section_number": "",
+    "section_title": "Starting, using and stopping treatment",
+    "source": "NICE_Hypertension_NG136",
+    "text": "# Starting, using and stopping treatment\n\n## General advice",
+    "char_count": 59
+  },
+  {
+    "chunk_id": "p11_c004",
+    "page_number": 11,
+    "section_number": "",
+    "section_title": "",
+    "source": "NICE_Hypertension_NG136",
+    "text": "**1.4.10** Before starting any treatment in pregnancy and the postnatal period, discuss with the woman the higher threshold for pharmacological interventions arising from the changing risk-benefit ratio for psychotropic medication at this time and the likely benefits of a psychological intervention",
+    "char_count": 299
+  },
+  {
+    "chunk_id": "p11_c005",
+    "page_number": 11,
+    "section_number": "",
+    "section_title": "",
+    "source": "NICE_Hypertension_NG136",
+    "text": ". **[2014]**",
+    "char_count": 12
+  },
+  {
+    "chunk_id": "p11_c006",
+    "page_number": 11,
+    "section_number": "",
+    "section_title": "",
+    "source": "NICE_Hypertension_NG136",
+    "text": "**1.4.11** If the optimal treatment for a woman with a mental health problem is psychotropic medication combined with a psychological intervention, but she declines or stops taking psychotropic medication in pregnancy or the postnatal period, ensure that:\n\n- she is adequately supported and",
+    "char_count": 290
+  },
+  {
+    "chunk_id": "p11_c007",
+    "page_number": 11,
+    "section_number": "",
+    "section_title": "",
+    "source": "NICE_Hypertension_NG136",
+    "text": "- she is adequately supported and\n\n- has the opportunity to discuss the risk associated with stopping psychotropic medication and\n\n- is offered, or can continue with, a psychological intervention. **[2014]**",
+    "char_count": 207
+  },
+  {
+    "chunk_id": "p11_c008",
+    "page_number": 11,
+    "section_number": "",
+    "section_title": "",
+    "source": "NICE_Hypertension_NG136",
+    "text": "- is offered, or can continue with, a psychological intervention. **[2014]**\n\n**1.4.12** When psychotropic medication is started in pregnancy and the postnatal period, consider seeking advice, preferably from a specialist in perinatal mental health, and:\n\n48",
+    "char_count": 258
+  },
+  {
+    "chunk_id": "p12_c000",
+    "page_number": 12,
+    "section_number": "",
+    "section_title": "",
+    "source": "NICE_Hypertension_NG136",
+    "text": "Antenatal and postnatal mental health: clinical management and service guidance (CG192)\n\n- choose the drug with the lowest risk profile for the woman, fetus and baby, taking into account a woman's previous response to medication",
+    "char_count": 228
+  },
+  {
+    "chunk_id": "p12_c001",
+    "page_number": 12,
+    "section_number": "",
+    "section_title": "",
+    "source": "NICE_Hypertension_NG136",
+    "text": "- use the lowest effective dose (this is particularly important when the risks of adverse effects to the woman, fetus and baby may be dose related), but note that sub-therapeutic doses may also expose the fetus to risks and not treat the mental health problem effectively",
+    "char_count": 271
+  },
+  {
+    "chunk_id": "p12_c002",
+    "page_number": 12,
+    "section_number": "1.4.13",
+    "section_title": "When a woman with severe mental illness decides to stop psych",
+    "source": "NICE_Hypertension_NG136",
+    "text": "- use a single drug, if possible, in preference to 2 or more drugs\n\n- take into account that dosages may need to be adjusted in pregnancy. **[2014]**\n\n1.4.13 When a woman with severe mental illness decides to stop psychotropic medication in pregnancy and the postnatal period, discuss with her:",
+    "char_count": 294
+  },
+  {
+    "chunk_id": "p12_c003",
+    "page_number": 12,
+    "section_number": "",
+    "section_title": "",
+    "source": "NICE_Hypertension_NG136",
+    "text": "- her reasons for doing so\n\n- the possibility of:\n\n- restarting the medication\n\n- switching to other medication\n\n- having a psychological intervention\n\n- increasing the level of monitoring and support.",
+    "char_count": 201
+  },
+  {
+    "chunk_id": "p12_c004",
+    "page_number": 12,
+    "section_number": "",
+    "section_title": "",
+    "source": "NICE_Hypertension_NG136",
+    "text": "- having a psychological intervention\n\n- increasing the level of monitoring and support.\n\nEnsure she knows about any risks to herself, the fetus or baby when stopping medication. **[2014]**",
+    "char_count": 189
+  },
+  {
+    "chunk_id": "p12_c005",
+    "page_number": 12,
+    "section_number": "1.4.14",
+    "section_title": "When a woman with depression or an anxiety disorder decides t",
+    "source": "NICE_Hypertension_NG136",
+    "text": "1.4.14 When a woman with depression or an anxiety disorder decides to stop taking psychotropic medication in pregnancy and the postnatal period, discuss with her:\n\n- her reasons for doing so\n\n- the possibility of:\n\n- having a psychological intervention",
+    "char_count": 252
+  },
+  {
+    "chunk_id": "p12_c006",
+    "page_number": 12,
+    "section_number": "",
+    "section_title": "",
+    "source": "NICE_Hypertension_NG136",
+    "text": "- her reasons for doing so\n\n- the possibility of:\n\n- having a psychological intervention\n\n- restarting the medication if the depression or anxiety disorder is or has\n\n48",
+    "char_count": 169
+  },
+  {
+    "chunk_id": "p13_c000",
+    "page_number": 13,
+    "section_number": "",
+    "section_title": "",
+    "source": "NICE_Hypertension_NG136",
+    "text": "Antenatal and postnatal mental health: clinical management and service guidance (CG192)\n\nbeen severe and there has been a previous good response to treatment\n\n- switching to other medication\n\n- increasing the level of monitoring and support while she is not taking any medication.",
+    "char_count": 280
+  },
+  {
+    "chunk_id": "p13_c001",
+    "page_number": 13,
+    "section_number": "",
+    "section_title": "",
+    "source": "NICE_Hypertension_NG136",
+    "text": "- increasing the level of monitoring and support while she is not taking any medication.\n\nEnsure she knows about any risks to herself, the fetus or baby when stopping medication. **[2014]**",
+    "char_count": 189
+  },
+  {
+    "chunk_id": "p13_c002",
+    "page_number": 13,
+    "section_number": "1.4.15",
+    "section_title": "If a pregnant woman has taken psychotropic medication with kn",
+    "source": "NICE_Hypertension_NG136",
+    "text": "1.4.15 If a pregnant woman has taken psychotropic medication with known teratogenic risk at any time in the first trimester:\n\n- confirm the pregnancy as soon as possible\n\n- explain that stopping or switching the medication after pregnancy is confirmed may not remove the risk of fetal malformations",
+    "char_count": 298
+  },
+  {
+    "chunk_id": "p13_c003",
+    "page_number": 13,
+    "section_number": "",
+    "section_title": "",
+    "source": "NICE_Hypertension_NG136",
+    "text": "- offer screening for fetal abnormalities and counselling about continuing the pregnancy\n\n- explain the need for additional monitoring and the risks to the fetus if she continues to take the medication.",
+    "char_count": 202
+  },
+  {
+    "chunk_id": "p13_c004",
+    "page_number": 13,
+    "section_number": "",
+    "section_title": "TCAs, SSRIs, (S)NRIs",
+    "source": "NICE_Hypertension_NG136",
+    "text": "Seek advice from a specialist if there is uncertainty about the risks associated with specific drugs. **[2014]**\n\n# **TCAs, SSRIs, (S)NRIs**",
+    "char_count": 140
+  },
+  {
+    "chunk_id": "p13_c005",
+    "page_number": 13,
+    "section_number": "1.4.16",
+    "section_title": "When choosing a tricyclic antidepressant (TCA), selective ser",
+    "source": "NICE_Hypertension_NG136",
+    "text": "# **TCAs, SSRIs, (S)NRIs**\n\n1.4.16 When choosing a tricyclic antidepressant (TCA), selective serotonin reuptake inhibitor (SSRI) or (serotonin-) noradrenaline reuptake inhibitor [(S)NRI], take into account:\n\n- the woman's previous response to these drugs",
+    "char_count": 254
+  },
+  {
+    "chunk_id": "p13_c006",
+    "page_number": 13,
+    "section_number": "",
+    "section_title": "",
+    "source": "NICE_Hypertension_NG136",
+    "text": "- the woman's previous response to these drugs\n\n- the stage of pregnancy (for example, see the MHRA's drug safety update on SSRI/SNRI antidepressant medicines: for information on a small increased risk of postpartum haemorrhage with SSRI and SNRI antidepressant medicines \n\n48",
+    "char_count": 276
+  },
+  {
+    "chunk_id": "p14_c000",
+    "page_number": 14,
+    "section_number": "",
+    "section_title": "",
+    "source": "NICE_Hypertension_NG136",
+    "text": "Antenatal and postnatal mental health: clinical management and service guidance (CG192)\n\nwhen used in the month before delivery)",
+    "char_count": 128
+  },
+  {
+    "chunk_id": "p14_c001",
+    "page_number": 14,
+    "section_number": "",
+    "section_title": "",
+    "source": "NICE_Hypertension_NG136",
+    "text": "when used in the month before delivery)\n\n- • what is known about the reproductive safety of these drugs (for example, the risk of fetal cardiac abnormalities and persistent pulmonary hypertension in the newborn baby)",
+    "char_count": 216
+  },
+  {
+    "chunk_id": "p14_c002",
+    "page_number": 14,
+    "section_number": "",
+    "section_title": "",
+    "source": "NICE_Hypertension_NG136",
+    "text": "- • the uncertainty about whether any increased risk to the fetus and other problems for the woman or baby can be attributed directly to these drugs or may be caused by other factors",
+    "char_count": 182
+  },
+  {
+    "chunk_id": "p14_c003",
+    "page_number": 14,
+    "section_number": "",
+    "section_title": "",
+    "source": "NICE_Hypertension_NG136",
+    "text": "- • the risk of discontinuation symptoms in the woman and neonatal adaptation syndrome in the baby with most TCAs, SSRIs and (S)NRIs, in particular paroxetine and venlafaxine.",
+    "char_count": 175
+  },
+  {
+    "chunk_id": "p14_c004",
+    "page_number": 14,
+    "section_number": "1.4.17",
+    "section_title": "When assessing the risks and benefits of TCAs, SSRIs or (S)NR",
+    "source": "NICE_Hypertension_NG136",
+    "text": "In December 2014, this was an off-label use of TCAs, SSRIs and (S)NRIs. See NICE's information on prescribing medicines. **[2014]**\n\n1.4.17 When assessing the risks and benefits of TCAs, SSRIs or (S)NRIs for a woman who is considering breastfeeding, take into account:",
+    "char_count": 268
+  },
+  {
+    "chunk_id": "p14_c005",
+    "page_number": 14,
+    "section_number": "",
+    "section_title": "",
+    "source": "NICE_Hypertension_NG136",
+    "text": "- • the benefits of breastfeeding for the woman and baby\n\n- • the uncertainty about the safety of these drugs for the breastfeeding baby\n\n- • the risks associated with switching from or stopping a previously effective medication.",
+    "char_count": 229
+  },
+  {
+    "chunk_id": "p14_c006",
+    "page_number": 14,
+    "section_number": "",
+    "section_title": "Benzodiazepines",
+    "source": "NICE_Hypertension_NG136",
+    "text": "Seek advice from a specialist (preferably from a specialist perinatal mental health service) if there is uncertainty about specific drugs. See also the UK Drugs in Lactation Advisory Service for information on the use of specific drugs. **[2014, amended 2017]**\n\n## Benzodiazepines",
+    "char_count": 281
+  },
+  {
+    "chunk_id": "p14_c007",
+    "page_number": 14,
+    "section_number": "1.4.18",
+    "section_title": "Do not offer benzodiazepines to women in pregnancy and the po",
+    "source": "NICE_Hypertension_NG136",
+    "text": "## Benzodiazepines\n\n1.4.18 Do not offer benzodiazepines to women in pregnancy and the postnatal period except for the short-term treatment of severe anxiety and agitation. **[2014]**\n\n1.4.19 Consider gradually stopping benzodiazepines in women who are planning a\n\n48",
+    "char_count": 266
+  },
+  {
+    "chunk_id": "p15_c000",
+    "page_number": 15,
+    "section_number": "",
+    "section_title": "Antipsychotic medication",
+    "source": "NICE_Hypertension_NG136",
+    "text": "Antenatal and postnatal mental health: clinical management and service guidance (CG192)\n\npregnancy, pregnant or considering breastfeeding. **[2014]**\n\n# Antipsychotic medication",
+    "char_count": 177
+  },
+  {
+    "chunk_id": "p15_c001",
+    "page_number": 15,
+    "section_number": "1.4.20",
+    "section_title": "When assessing the risks and benefits of antipsychotic medica",
+    "source": "NICE_Hypertension_NG136",
+    "text": "pregnancy, pregnant or considering breastfeeding. **[2014]**\n\n# Antipsychotic medication\n\n1.4.20 When assessing the risks and benefits of antipsychotic medication for a pregnant woman, take into account risk factors for gestational diabetes and excessive weight gain.",
+    "char_count": 267
+  },
+  {
+    "chunk_id": "p15_c002",
+    "page_number": 15,
+    "section_number": "1.4.21",
+    "section_title": "When choosing an antipsychotic, take into account that there",
+    "source": "NICE_Hypertension_NG136",
+    "text": "In December 2014, this was an off-label use of antipsychotic medication. See NICE's information on prescribing medicines. **[2014]**\n\n1.4.21 When choosing an antipsychotic, take into account that there are limited data on the safety of these drugs in pregnancy and the postnatal period. **[2014]**",
+    "char_count": 297
+  },
+  {
+    "chunk_id": "p15_c003",
+    "page_number": 15,
+    "section_number": "1.4.22",
+    "section_title": "Measure prolactin levels in women who are taking prolactin-ra",
+    "source": "NICE_Hypertension_NG136",
+    "text": "1.4.22 Measure prolactin levels in women who are taking prolactin-raising antipsychotic medication and planning a pregnancy, because raised prolactin levels reduce the chances of conception. If prolactin levels are raised, consider a prolactin-sparing antipsychotic. **[2014]**",
+    "char_count": 277
+  },
+  {
+    "chunk_id": "p15_c004",
+    "page_number": 15,
+    "section_number": "1.4.23",
+    "section_title": "If a pregnant woman is stable on an antipsychotic and likely",
+    "source": "NICE_Hypertension_NG136",
+    "text": "1.4.23 If a pregnant woman is stable on an antipsychotic and likely to relapse without medication, advise her to continue the antipsychotic. **[2014]**",
+    "char_count": 151
+  },
+  {
+    "chunk_id": "p15_c005",
+    "page_number": 15,
+    "section_number": "1.4.24",
+    "section_title": "Advise pregnant women taking antipsychotic medication about d",
+    "source": "NICE_Hypertension_NG136",
+    "text": "1.4.24 Advise pregnant women taking antipsychotic medication about diet and monitor for excessive weight gain, in line with the NICE guideline on weight management before, during and after pregnancy. **[2014]**",
+    "char_count": 210
+  },
+  {
+    "chunk_id": "p15_c006",
+    "page_number": 15,
+    "section_number": "1.4.25",
+    "section_title": "Monitor for gestational diabetes in pregnant women taking ant",
+    "source": "NICE_Hypertension_NG136",
+    "text": "1.4.25 Monitor for gestational diabetes in pregnant women taking antipsychotic medication in line with the NICE guideline on diabetes in pregnancy and offer an oral glucose tolerance test. **[2014]**",
+    "char_count": 199
+  },
+  {
+    "chunk_id": "p15_c007",
+    "page_number": 15,
+    "section_number": "1.4.26",
+    "section_title": "Do not offer depot antipsychotics to a woman who is planning",
+    "source": "NICE_Hypertension_NG136",
+    "text": "1.4.26 Do not offer depot antipsychotics to a woman who is planning a pregnancy, pregnant or considering breastfeeding, unless she is responding well to a depot and has a previous history of non-adherence with oral medication. **[2014]**\n\n48",
+    "char_count": 241
+  },
+  {
+    "chunk_id": "p16_c000",
+    "page_number": 16,
+    "section_number": "",
+    "section_title": "Anticonvulsants for mental health problems (valproate, carbamazepine and lamotrigine)",
+    "source": "NICE_Hypertension_NG136",
+    "text": "Antenatal and postnatal mental health: clinical management and service guidance (CG192)\n\n# Anticonvulsants for mental health problems (valproate, carbamazepine and lamotrigine)",
+    "char_count": 176
+  },
+  {
+    "chunk_id": "p16_c001",
+    "page_number": 16,
+    "section_number": "1.4.27",
+    "section_title": "Do not offer valproate for acute or long-term treatment of a",
+    "source": "NICE_Hypertension_NG136",
+    "text": "1.4.27 Do not offer valproate for acute or long-term treatment of a mental health problem in women or girls who are planning a pregnancy, pregnant or considering breastfeeding",
+    "char_count": 175
+  },
+  {
+    "chunk_id": "p16_c002",
+    "page_number": 16,
+    "section_number": "",
+    "section_title": "",
+    "source": "NICE_Hypertension_NG136",
+    "text": ". Valproate must not be used in girls and women unless alternative treatments are not suitable and the pregnancy prevention programme is in place. See the MHRA safety advice on valproate use by women and girls and valproate use in people younger than 55 years. **[2014, amended 2020]**",
+    "char_count": 285
+  },
+  {
+    "chunk_id": "p16_c003",
+    "page_number": 16,
+    "section_number": "1.4.28",
+    "section_title": "If a woman or girl is already taking valproate and is plannin",
+    "source": "NICE_Hypertension_NG136",
+    "text": "1.4.28 If a woman or girl is already taking valproate and is planning a pregnancy, advise her to gradually stop the drug because of the risk of fetal malformations and adverse neurodevelopment outcomes after any exposure in pregnancy. See the MHRA safety advice on valproate use by women and girls",
+    "char_count": 297
+  },
+  {
+    "chunk_id": "p16_c004",
+    "page_number": 16,
+    "section_number": "",
+    "section_title": "",
+    "source": "NICE_Hypertension_NG136",
+    "text": ". See the MHRA safety advice on valproate use by women and girls. **[2014, amended 2020]**",
+    "char_count": 90
+  },
+  {
+    "chunk_id": "p16_c005",
+    "page_number": 16,
+    "section_number": "1.4.29",
+    "section_title": "If a woman or girl is already taking valproate and becomes pr",
+    "source": "NICE_Hypertension_NG136",
+    "text": "1.4.29 If a woman or girl is already taking valproate and becomes pregnant, stop the drug because of the risk of fetal malformations and adverse neurodevelopmental outcomes. See the MHRA safety advice on valproate use by women and girls. **[2014, amended 2020]**",
+    "char_count": 262
+  },
+  {
+    "chunk_id": "p16_c006",
+    "page_number": 16,
+    "section_number": "1.4.30",
+    "section_title": "Do not offer carbamazepine to treat a mental health problem i",
+    "source": "NICE_Hypertension_NG136",
+    "text": "1.4.30 Do not offer carbamazepine to treat a mental health problem in women who are planning a pregnancy, pregnant or considering breastfeeding. **[2014]**",
+    "char_count": 155
+  },
+  {
+    "chunk_id": "p16_c007",
+    "page_number": 16,
+    "section_number": "1.4.31",
+    "section_title": "If a woman is already taking carbamazepine and is planning a",
+    "source": "NICE_Hypertension_NG136",
+    "text": "1.4.31 If a woman is already taking carbamazepine and is planning a pregnancy or becomes pregnant, discuss with the woman the possibility of stopping the drug (because of the risk of adverse drug interactions and fetal malformations)",
+    "char_count": 233
+  },
+  {
+    "chunk_id": "p16_c008",
+    "page_number": 16,
+    "section_number": "",
+    "section_title": "",
+    "source": "NICE_Hypertension_NG136",
+    "text": ". Follow the MHRA safety advice on anti-epileptic drugs in pregnancy. **[2014, amended 2021]**",
+    "char_count": 94
+  },
+  {
+    "chunk_id": "p16_c009",
+    "page_number": 16,
+    "section_number": "1.4.32",
+    "section_title": "If a woman is taking lamotrigine, check lamotrigine levels fr",
+    "source": "NICE_Hypertension_NG136",
+    "text": "1.4.32 If a woman is taking lamotrigine, check lamotrigine levels frequently before pregnancy, during pregnancy and into the postnatal period because they vary substantially at these times. Follow the MHRA safety advice on anti-epileptic drugs in pregnancy. **[2014, amended 2021]**",
+    "char_count": 282
+  },
+  {
+    "chunk_id": "p16_c010",
+    "page_number": 16,
+    "section_number": "",
+    "section_title": "",
+    "source": "NICE_Hypertension_NG136",
+    "text": "In December 2014, this was an off-label use of lamotrigine. See NICE's information on prescribing medicines.\n\n48",
+    "char_count": 112
+  },
+  {
+    "chunk_id": "p17_c000",
+    "page_number": 17,
+    "section_number": "1.4.33",
+    "section_title": "Do not offer lithium to women who are planning a pregnancy or",
+    "source": "NICE_Hypertension_NG136",
+    "text": "Antenatal and postnatal mental health: clinical management and service guidance (CG192)\n\n# Lithium\n\n1.4.33 Do not offer lithium to women who are planning a pregnancy or pregnant, unless antipsychotic medication has not been effective.",
+    "char_count": 234
+  },
+  {
+    "chunk_id": "p17_c001",
+    "page_number": 17,
+    "section_number": "1.4.34",
+    "section_title": "If antipsychotic medication has not been effective and lithiu",
+    "source": "NICE_Hypertension_NG136",
+    "text": "In December 2014, this was an off-label use of lithium. See NICE's information on prescribing medicines. **[2014]**\n\n1.4.34 If antipsychotic medication has not been effective and lithium is offered to a woman who is planning a pregnancy or pregnant, ensure:",
+    "char_count": 257
+  },
+  {
+    "chunk_id": "p17_c002",
+    "page_number": 17,
+    "section_number": "",
+    "section_title": "",
+    "source": "NICE_Hypertension_NG136",
+    "text": "- the woman knows that there is a risk of fetal heart malformations when lithium is taken in the first trimester, but the size of the risk is uncertain\n\n- the woman knows that lithium levels may be high in breast milk with a risk of toxicity for the baby",
+    "char_count": 254
+  },
+  {
+    "chunk_id": "p17_c003",
+    "page_number": 17,
+    "section_number": "1.4.35",
+    "section_title": "If a woman taking lithium becomes pregnant, consider stopping",
+    "source": "NICE_Hypertension_NG136",
+    "text": "- lithium levels are monitored more frequently throughout pregnancy and the postnatal period. **[2014]**\n\n1.4.35 If a woman taking lithium becomes pregnant, consider stopping the drug gradually over 4 weeks if she is well. Explain to her that:",
+    "char_count": 243
+  },
+  {
+    "chunk_id": "p17_c004",
+    "page_number": 17,
+    "section_number": "1.4.36",
+    "section_title": "If a woman taking lithium becomes pregnant and is not well or",
+    "source": "NICE_Hypertension_NG136",
+    "text": "- stopping medication may not remove the risk of fetal heart malformations\n\n- there is a risk of relapse, particularly in the postnatal period, if she has bipolar disorder. **[2014]**\n\n1.4.36 If a woman taking lithium becomes pregnant and is not well or is at high risk of relapse, consider:",
+    "char_count": 291
+  },
+  {
+    "chunk_id": "p17_c005",
+    "page_number": 17,
+    "section_number": "",
+    "section_title": "",
+    "source": "NICE_Hypertension_NG136",
+    "text": "- switching gradually to an antipsychotic or\n\n- stopping lithium and restarting it in the second trimester (if the woman is not planning to breastfeed and her symptoms have responded better to lithium than to other drugs in the past) or",
+    "char_count": 236
+  },
+  {
+    "chunk_id": "p17_c006",
+    "page_number": 17,
+    "section_number": "",
+    "section_title": "",
+    "source": "NICE_Hypertension_NG136",
+    "text": "- continuing with lithium if she is at high risk of relapse and an antipsychotic is unlikely to be effective. **[2014]**\n\n48",
+    "char_count": 124
+  },
+  {
+    "chunk_id": "p18_c000",
+    "page_number": 18,
+    "section_number": "1.4.37",
+    "section_title": "If a woman continues taking lithium during pregnancy:",
+    "source": "NICE_Hypertension_NG136",
+    "text": "Antenatal and postnatal mental health: clinical management and service guidance (CG192)\n\n1.4.37 If a woman continues taking lithium during pregnancy:\n\n- check plasma lithium levels every 4 weeks, then weekly from the 36th week",
+    "char_count": 226
+  },
+  {
+    "chunk_id": "p18_c001",
+    "page_number": 18,
+    "section_number": "",
+    "section_title": "",
+    "source": "NICE_Hypertension_NG136",
+    "text": "- check plasma lithium levels every 4 weeks, then weekly from the 36th week\n\n- adjust the dose to keep plasma lithium levels in the woman's therapeutic range\n\n- ensure the woman maintains an adequate fluid balance\n\n- ensure the woman gives birth in hospital",
+    "char_count": 257
+  },
+  {
+    "chunk_id": "p18_c002",
+    "page_number": 18,
+    "section_number": "",
+    "section_title": "",
+    "source": "NICE_Hypertension_NG136",
+    "text": "- ensure the woman maintains an adequate fluid balance\n\n- ensure the woman gives birth in hospital\n\n- ensure monitoring by the obstetric team when labour starts, including checking plasma lithium levels and fluid balance because of the risk of dehydration and lithium toxicity",
+    "char_count": 276
+  },
+  {
+    "chunk_id": "p18_c003",
+    "page_number": 18,
+    "section_number": "1.5",
+    "section_title": "**Recognising mental health problems in pregnancy and the postnatal period and referral",
+    "source": "NICE_Hypertension_NG136",
+    "text": "- stop lithium during labour and check plasma lithium levels 12 hours after her last dose. **[2014]**\n\n# 1.5 **Recognising mental health problems in pregnancy and the postnatal period and referral**",
+    "char_count": 198
+  },
+  {
+    "chunk_id": "p18_c004",
+    "page_number": 18,
+    "section_number": "1.5.1",
+    "section_title": "Recognise that women who have a mental health problem (or are",
+    "source": "NICE_Hypertension_NG136",
+    "text": "# 1.5 **Recognising mental health problems in pregnancy and the postnatal period and referral**\n\n1.5.1 Recognise that women who have a mental health problem (or are worried that they might have) may be:",
+    "char_count": 202
+  },
+  {
+    "chunk_id": "p18_c005",
+    "page_number": 18,
+    "section_number": "",
+    "section_title": "",
+    "source": "NICE_Hypertension_NG136",
+    "text": "- unwilling to disclose or discuss their problem because of fear of stigma, negative perceptions of them as a mother or fear that their baby might be taken into care",
+    "char_count": 165
+  },
+  {
+    "chunk_id": "p18_c006",
+    "page_number": 18,
+    "section_number": "",
+    "section_title": "",
+    "source": "NICE_Hypertension_NG136",
+    "text": "- reluctant to engage, or have difficulty in engaging, in treatment because of avoidance associated with their mental health problem or dependence on alcohol or drugs. **[2014]**",
+    "char_count": 178
+  },
+  {
+    "chunk_id": "p18_c007",
+    "page_number": 18,
+    "section_number": "1.5.2",
+    "section_title": "All healthcare professionals referring a woman to a maternity",
+    "source": "NICE_Hypertension_NG136",
+    "text": "1.5.2 All healthcare professionals referring a woman to a maternity service should ensure that communications with that service (including those relating to initial referral) share information on any past and present mental health problem. **[2014]**\n\n48",
+    "char_count": 254
+  },
+  {
+    "chunk_id": "p19_c000",
+    "page_number": 19,
+    "section_number": "",
+    "section_title": "Depression and anxiety disorders",
+    "source": "NICE_Hypertension_NG136",
+    "text": "Antenatal and postnatal mental health: clinical management and service guidance (CG192)\n\n# Depression and anxiety disorders",
+    "char_count": 123
+  },
+  {
+    "chunk_id": "p19_c001",
+    "page_number": 19,
+    "section_number": "1.5.3",
+    "section_title": "Recognise that the range and prevalence of anxiety disorders",
+    "source": "NICE_Hypertension_NG136",
+    "text": "1.5.3 Recognise that the range and prevalence of anxiety disorders (including generalised anxiety disorder, obsessive-compulsive disorder, panic disorder, phobias, post-traumatic stress disorder and social anxiety disorder) and depression are under-recognised throughout pregnancy and the postnatal",
+    "char_count": 298
+  },
+  {
+    "chunk_id": "p19_c002",
+    "page_number": 19,
+    "section_number": "",
+    "section_title": "",
+    "source": "NICE_Hypertension_NG136",
+    "text": "social anxiety disorder) and depression are under-recognised throughout pregnancy and the postnatal period.",
+    "char_count": 107
+  },
+  {
+    "chunk_id": "p19_c003",
+    "page_number": 19,
+    "section_number": "",
+    "section_title": "",
+    "source": "NICE_Hypertension_NG136",
+    "text": "[2014]",
+    "char_count": 6
+  },
+  {
+    "chunk_id": "p19_c004",
+    "page_number": 19,
+    "section_number": "1.5.4",
+    "section_title": "At a woman's first contact with primary care or her booking v",
+    "source": "NICE_Hypertension_NG136",
+    "text": "1.5.4 At a woman's first contact with primary care or her booking visit, and during the early postnatal period, consider asking the following depression identification questions as part of a general discussion about a woman's mental health and wellbeing:",
+    "char_count": 254
+  },
+  {
+    "chunk_id": "p19_c005",
+    "page_number": 19,
+    "section_number": "",
+    "section_title": "",
+    "source": "NICE_Hypertension_NG136",
+    "text": "- During the past month, have you often been bothered by feeling down, depressed or hopeless?\n\n- During the past month, have you often been bothered by having little interest or pleasure in doing things?",
+    "char_count": 203
+  },
+  {
+    "chunk_id": "p19_c006",
+    "page_number": 19,
+    "section_number": "",
+    "section_title": "",
+    "source": "NICE_Hypertension_NG136",
+    "text": "Also consider asking about anxiety using the 2-item Generalized Anxiety Disorder scale (GAD-2):\n\n- Over the last 2 weeks, how often have you been bothered by feeling nervous, anxious or on edge?",
+    "char_count": 194
+  },
+  {
+    "chunk_id": "p19_c007",
+    "page_number": 19,
+    "section_number": "",
+    "section_title": "",
+    "source": "NICE_Hypertension_NG136",
+    "text": "- Over the last 2 weeks, how often have you been bothered by feeling nervous, anxious or on edge?\n\n- Over the last 2 weeks, how often have you been bothered by not being able to stop or control worrying?",
+    "char_count": 203
+  },
+  {
+    "chunk_id": "p19_c008",
+    "page_number": 19,
+    "section_number": "",
+    "section_title": "",
+    "source": "NICE_Hypertension_NG136",
+    "text": "For questions about anxiety: an answer of 'not at all' scores 0; 'several days' scores 1; 'more than half the days' scores 2; 'nearly every day' scores 3.\n\n3. **[2014, amended 2015]**",
+    "char_count": 183
+  },
+  {
+    "chunk_id": "p19_c009",
+    "page_number": 19,
+    "section_number": "1.5.5",
+    "section_title": "If a woman responds positively to either of the depression id",
+    "source": "NICE_Hypertension_NG136",
+    "text": "3. **[2014, amended 2015]**\n\n1.5.5 If a woman responds positively to either of the depression identification questions in recommendation 1.5.4, is at risk of developing a mental health problem, or there is clinical concern, consider:",
+    "char_count": 233
+  },
+  {
+    "chunk_id": "p19_c010",
+    "page_number": 19,
+    "section_number": "",
+    "section_title": "",
+    "source": "NICE_Hypertension_NG136",
+    "text": "- using the Edinburgh Postnatal Depression Scale (EPDS) or the Patient Health Questionnaire (PHQ-9) as part of a full assessment or\n\n48",
+    "char_count": 135
+  },
+  {
+    "chunk_id": "p20_c000",
+    "page_number": 20,
+    "section_number": "1.5.6",
+    "section_title": "If a woman scores 3 or more on the GAD-2 scale, consider:",
+    "source": "NICE_Hypertension_NG136",
+    "text": "Antenatal and postnatal mental health: clinical management and service guidance (CG192)\n\n- referring the woman to her GP or, if a severe mental health problem is suspected, to a mental health professional. **[2014]**\n\n1.5.6 If a woman scores 3 or more on the GAD-2 scale, consider:",
+    "char_count": 281
+  },
+  {
+    "chunk_id": "p20_c001",
+    "page_number": 20,
+    "section_number": "1.5.6",
+    "section_title": "If a woman scores 3 or more on the GAD-2 scale, consider:",
+    "source": "NICE_Hypertension_NG136",
+    "text": "1.5.6 If a woman scores 3 or more on the GAD-2 scale, consider:\n\n- using the GAD-7 scale for further assessment or\n\n- referring the woman to her GP or, if a severe mental health problem is suspected, to a mental health professional. **[2014]**",
+    "char_count": 243
+  },
+  {
+    "chunk_id": "p20_c002",
+    "page_number": 20,
+    "section_number": "1.5.7",
+    "section_title": "If a woman scores less than 3 on the GAD-2 scale, but you are",
+    "source": "NICE_Hypertension_NG136",
+    "text": "1.5.7 If a woman scores less than 3 on the GAD-2 scale, but you are still concerned she may have an anxiety disorder, ask the following question:\n\n- Do you find yourself avoiding places or activities and does this cause you problems?\n\nIf she responds positively, consider:",
+    "char_count": 272
+  },
+  {
+    "chunk_id": "p20_c003",
+    "page_number": 20,
+    "section_number": "",
+    "section_title": "",
+    "source": "NICE_Hypertension_NG136",
+    "text": "If she responds positively, consider:\n\n- using the GAD-7 scale for further assessment or\n\n- referring the woman to her GP or, if a severe mental health problem is suspected, to a mental health professional. **[2014]**",
+    "char_count": 217
+  },
+  {
+    "chunk_id": "p20_c004",
+    "page_number": 20,
+    "section_number": "1.5.8",
+    "section_title": "At all contacts after the first contact with primary care or",
+    "source": "NICE_Hypertension_NG136",
+    "text": "1.5.8 At all contacts after the first contact with primary care or the booking visit, the health visitor, and other healthcare professionals who have regular contact with a woman in pregnancy and the postnatal period (first year after birth), should consider:",
+    "char_count": 259
+  },
+  {
+    "chunk_id": "p20_c005",
+    "page_number": 20,
+    "section_number": "",
+    "section_title": "Severe mental illness",
+    "source": "NICE_Hypertension_NG136",
+    "text": "- asking the 2 depression identification questions and the GAD-2 (see recommendation 1.5.4) as part of a general discussion about her mental health and wellbeing and\n\n- using the EPDS or the PHQ-9 as part of monitoring. **[2014]**\n\n## Severe mental illness",
+    "char_count": 256
+  },
+  {
+    "chunk_id": "p20_c006",
+    "page_number": 20,
+    "section_number": "1.5.9",
+    "section_title": "At a woman's first contact with services in pregnancy and the",
+    "source": "NICE_Hypertension_NG136",
+    "text": "- using the EPDS or the PHQ-9 as part of monitoring. **[2014]**\n\n## Severe mental illness\n\n1.5.9 At a woman's first contact with services in pregnancy and the postnatal period, ask about:\n\n48",
+    "char_count": 191
+  },
+  {
+    "chunk_id": "p21_c000",
+    "page_number": 21,
+    "section_number": "",
+    "section_title": "",
+    "source": "NICE_Hypertension_NG136",
+    "text": "Antenatal and postnatal mental health: clinical management and service guidance (CG192)\n\n- any past or present severe mental illness\n\n- past or present treatment by a specialist mental health service, including inpatient care",
+    "char_count": 225
+  },
+  {
+    "chunk_id": "p21_c001",
+    "page_number": 21,
+    "section_number": "",
+    "section_title": "",
+    "source": "NICE_Hypertension_NG136",
+    "text": "- past or present treatment by a specialist mental health service, including inpatient care\n\n- any severe perinatal mental illness in a first-degree relative (mother, sister or daughter). **[2014]**",
+    "char_count": 198
+  },
+  {
+    "chunk_id": "p21_c002",
+    "page_number": 21,
+    "section_number": "",
+    "section_title": "",
+    "source": "NICE_Hypertension_NG136",
+    "text": "**1.5.10** Refer to a secondary mental health service (preferably a specialist perinatal mental health service) for assessment and treatment, all women who:\n\n- have or are suspected to have severe mental illness",
+    "char_count": 211
+  },
+  {
+    "chunk_id": "p21_c003",
+    "page_number": 21,
+    "section_number": "",
+    "section_title": "",
+    "source": "NICE_Hypertension_NG136",
+    "text": "- have or are suspected to have severe mental illness\n\n- have any history of severe mental illness (during pregnancy or the postnatal period or at any other time).\n\nEnsure that the woman's GP knows about the referral. **[2014]**",
+    "char_count": 228
+  },
+  {
+    "chunk_id": "p21_c004",
+    "page_number": 21,
+    "section_number": "",
+    "section_title": "",
+    "source": "NICE_Hypertension_NG136",
+    "text": "**1.5.11** If a woman has any past or present severe mental illness or there is a family history of severe perinatal mental illness in a first-degree relative, be alert for possible symptoms of postpartum psychosis in the first 2 weeks after childbirth. **[2014]**",
+    "char_count": 264
+  },
+  {
+    "chunk_id": "p21_c005",
+    "page_number": 21,
+    "section_number": "",
+    "section_title": "Alcohol and drug misuse",
+    "source": "NICE_Hypertension_NG136",
+    "text": "**1.5.12** If a woman has sudden onset of symptoms suggesting postpartum psychosis, refer her to a secondary mental health service (preferably a specialist perinatal mental health service) for immediate assessment (within 4 hours of referral). **[2014]**\n\n# Alcohol and drug misuse",
+    "char_count": 281
+  },
+  {
+    "chunk_id": "p21_c006",
+    "page_number": 21,
+    "section_number": "",
+    "section_title": "Alcohol and drug misuse",
+    "source": "NICE_Hypertension_NG136",
+    "text": "# Alcohol and drug misuse\n\n**1.5.13** If alcohol misuse is suspected, use the Alcohol Use Disorders Identification Test (AUDIT) as an identification tool in line with recommendation 1.2.1.4 of the NICE guideline on alcohol-use disorders. **[2014]**",
+    "char_count": 248
+  },
+  {
+    "chunk_id": "p21_c007",
+    "page_number": 21,
+    "section_number": "",
+    "section_title": "",
+    "source": "NICE_Hypertension_NG136",
+    "text": "**1.5.14** If drug misuse is suspected, follow the recommendations on identification and assessment in the NICE guideline on drug misuse in over 16s: psychosocial interventions. **[2014]**\n\n48",
+    "char_count": 192
+  },
+  {
+    "chunk_id": "p22_c000",
+    "page_number": 22,
+    "section_number": "1.6",
+    "section_title": "Assessment and care planning in pregnancy and the postnatal p",
+    "source": "NICE_Hypertension_NG136",
+    "text": "Antenatal and postnatal mental health: clinical management and service guidance (CG192)\n\n# 1.6 Assessment and care planning in pregnancy and the postnatal period\n\n1.6.1 Assessment and diagnosis of a suspected mental health problem in pregnancy and the postnatal period should include:",
+    "char_count": 284
+  },
+  {
+    "chunk_id": "p22_c001",
+    "page_number": 22,
+    "section_number": "",
+    "section_title": "",
+    "source": "NICE_Hypertension_NG136",
+    "text": "- history of any mental health problem, including in pregnancy or the postnatal period\n\n- physical wellbeing (including weight, smoking, nutrition and activity level) and history of any physical health problem\n\n- alcohol and drug misuse",
+    "char_count": 236
+  },
+  {
+    "chunk_id": "p22_c002",
+    "page_number": 22,
+    "section_number": "",
+    "section_title": "",
+    "source": "NICE_Hypertension_NG136",
+    "text": "- alcohol and drug misuse\n\n- the woman's attitude towards the pregnancy, including denial of pregnancy\n\n- the woman's experience of pregnancy and any problems experienced by her, the fetus or the baby\n\n- the mother–baby relationship",
+    "char_count": 232
+  },
+  {
+    "chunk_id": "p22_c003",
+    "page_number": 22,
+    "section_number": "",
+    "section_title": "",
+    "source": "NICE_Hypertension_NG136",
+    "text": "- the mother–baby relationship\n\n- any past or present treatment for a mental health problem, and response to any treatment\n\n- social networks and quality of interpersonal relationships\n\n- living conditions and social isolation\n\n- family history (first-degree relative) of mental health problems",
+    "char_count": 294
+  },
+  {
+    "chunk_id": "p22_c004",
+    "page_number": 22,
+    "section_number": "",
+    "section_title": "",
+    "source": "NICE_Hypertension_NG136",
+    "text": "- family history (first-degree relative) of mental health problems\n\n- domestic violence and abuse, sexual abuse, trauma or childhood maltreatment\n\n- housing, employment, economic and immigration status\n\n- responsibilities as a carer for other children and young people or other adults. **[2014]**",
+    "char_count": 296
+  },
+  {
+    "chunk_id": "p22_c005",
+    "page_number": 22,
+    "section_number": "1.6.2",
+    "section_title": "When assessing or treating a mental health problem in pregnan",
+    "source": "NICE_Hypertension_NG136",
+    "text": "1.6.2 When assessing or treating a mental health problem in pregnancy or the postnatal period, take account of any learning disabilities or acquired cognitive impairments, and assess the need to consult with a specialist when developing\n\n48",
+    "char_count": 240
+  },
+  {
+    "chunk_id": "p23_c000",
+    "page_number": 23,
+    "section_number": "",
+    "section_title": "Antenatal and postnatal mental health: clinical management and service guidance (CG192)",
+    "source": "NICE_Hypertension_NG136",
+    "text": "# Antenatal and postnatal mental health: clinical management and service guidance (CG192)\n\ncare plans. **[2014]**",
+    "char_count": 113
+  },
+  {
+    "chunk_id": "p23_c001",
+    "page_number": 23,
+    "section_number": "",
+    "section_title": "",
+    "source": "NICE_Hypertension_NG136",
+    "text": "**1.6.3** Carry out a risk assessment in conjunction with the woman and, if she agrees, her partner, family or carer",
+    "char_count": 116
+  },
+  {
+    "chunk_id": "p23_c002",
+    "page_number": 23,
+    "section_number": "",
+    "section_title": "",
+    "source": "NICE_Hypertension_NG136",
+    "text": ". Focus on areas that are likely to present possible risk such as self-neglect, self-harm, suicidal thoughts and intent, risks to others (including the baby), smoking, drug or alcohol misuse and domestic violence and abuse. **[2014]**",
+    "char_count": 234
+  },
+  {
+    "chunk_id": "p23_c003",
+    "page_number": 23,
+    "section_number": "",
+    "section_title": "",
+    "source": "NICE_Hypertension_NG136",
+    "text": "**1.6.4** If there is a risk of, or there are concerns about, suspected child maltreatment, follow local safeguarding protocols. **[2014]**\n\n**1.6.5** If there is a risk of self-harm or suicide:\n\n- assess whether the woman has adequate social support and is aware of sources of help",
+    "char_count": 282
+  },
+  {
+    "chunk_id": "p23_c004",
+    "page_number": 23,
+    "section_number": "",
+    "section_title": "",
+    "source": "NICE_Hypertension_NG136",
+    "text": "- assess whether the woman has adequate social support and is aware of sources of help\n\n- arrange help appropriate to the level of risk\n\n- inform all relevant healthcare professionals (including the GP and those identified in the care plan [see recommendation 1.6.6])",
+    "char_count": 267
+  },
+  {
+    "chunk_id": "p23_c005",
+    "page_number": 23,
+    "section_number": "",
+    "section_title": "",
+    "source": "NICE_Hypertension_NG136",
+    "text": "- advise the woman, and her partner, family or carer, to seek further help if the situation deteriorates. **[2014]**",
+    "char_count": 116
+  },
+  {
+    "chunk_id": "p23_c006",
+    "page_number": 23,
+    "section_number": "",
+    "section_title": "",
+    "source": "NICE_Hypertension_NG136",
+    "text": "**1.6.6** Professionals in secondary mental health services, including specialist perinatal mental health services, should develop a written care plan in collaboration with a woman who has or has had a severe mental illness. If she agrees, her partner, family or carer should also be involved",
+    "char_count": 292
+  },
+  {
+    "chunk_id": "p23_c007",
+    "page_number": 23,
+    "section_number": "",
+    "section_title": "",
+    "source": "NICE_Hypertension_NG136",
+    "text": ". If she agrees, her partner, family or carer should also be involved. The plan should cover pregnancy, childbirth and the postnatal period (including the potential impact of the illness on the baby) and should include:",
+    "char_count": 219
+  },
+  {
+    "chunk_id": "p23_c008",
+    "page_number": 23,
+    "section_number": "",
+    "section_title": "",
+    "source": "NICE_Hypertension_NG136",
+    "text": "- a clear statement of jointly agreed treatment goals and how outcomes will be routinely monitored\n\n- increased contact with and referral to specialist perinatal mental health services\n\n- the names and contact details of key professionals.",
+    "char_count": 239
+  },
+  {
+    "chunk_id": "p23_c009",
+    "page_number": 23,
+    "section_number": "",
+    "section_title": "",
+    "source": "NICE_Hypertension_NG136",
+    "text": "- the names and contact details of key professionals.\n\nThe care plan should be recorded in all versions of the woman's notes (her\n\n48",
+    "char_count": 133
+  },
+  {
+    "chunk_id": "p24_c000",
+    "page_number": 24,
+    "section_number": "1.7",
+    "section_title": "Providing interventions in pregnancy and the **postnatal peri",
+    "source": "NICE_Hypertension_NG136",
+    "text": "Antenatal and postnatal mental health: clinical management and service guidance (CG192)\n\nown records and maternity, primary care and mental health notes) and a copy given to the woman and all involved professionals. **[2014]**\n\n# 1.7 Providing interventions in pregnancy and the **postnatal period**",
+    "char_count": 299
+  },
+  {
+    "chunk_id": "p24_c001",
+    "page_number": 24,
+    "section_number": "",
+    "section_title": "",
+    "source": "NICE_Hypertension_NG136",
+    "text": "**1.7.1** All healthcare professionals providing assessment and interventions for mental health problems in pregnancy and the postnatal period should understand the variations in their presentation and course at these times, how these variations affect treatment, and the context in which they are",
+    "char_count": 297
+  },
+  {
+    "chunk_id": "p24_c002",
+    "page_number": 24,
+    "section_number": "",
+    "section_title": "",
+    "source": "NICE_Hypertension_NG136",
+    "text": "and course at these times, how these variations affect treatment, and the context in which they are assessed and treated (for example, maternity services, health visiting and mental health services)",
+    "char_count": 198
+  },
+  {
+    "chunk_id": "p24_c003",
+    "page_number": 24,
+    "section_number": "",
+    "section_title": "",
+    "source": "NICE_Hypertension_NG136",
+    "text": ". **[2014]**",
+    "char_count": 12
+  },
+  {
+    "chunk_id": "p24_c004",
+    "page_number": 24,
+    "section_number": "",
+    "section_title": "",
+    "source": "NICE_Hypertension_NG136",
+    "text": "**1.7.2** All interventions for mental health problems in pregnancy and the postnatal period should be delivered by competent practitioners",
+    "char_count": 139
+  },
+  {
+    "chunk_id": "p24_c005",
+    "page_number": 24,
+    "section_number": "",
+    "section_title": "",
+    "source": "NICE_Hypertension_NG136",
+    "text": ". Psychological and psychosocial interventions should be based on the relevant treatment manual(s), which should guide the structure and duration of the intervention",
+    "char_count": 165
+  },
+  {
+    "chunk_id": "p24_c006",
+    "page_number": 24,
+    "section_number": "",
+    "section_title": "",
+    "source": "NICE_Hypertension_NG136",
+    "text": ". Practitioners should consider using competence frameworks developed from the relevant treatment manual(s) and for all interventions practitioners should:",
+    "char_count": 155
+  },
+  {
+    "chunk_id": "p24_c007",
+    "page_number": 24,
+    "section_number": "",
+    "section_title": "",
+    "source": "NICE_Hypertension_NG136",
+    "text": "- receive regular high-quality supervision\n\n- use routine outcome measures and ensure that the woman is involved in reviewing the efficacy of the treatment",
+    "char_count": 155
+  },
+  {
+    "chunk_id": "p24_c008",
+    "page_number": 24,
+    "section_number": "",
+    "section_title": "",
+    "source": "NICE_Hypertension_NG136",
+    "text": "- engage in monitoring and evaluation of treatment adherence and practitioner competence – for example, by using video and audio tapes, and external audit and scrutiny where appropriate. **[2014]**",
+    "char_count": 197
+  },
+  {
+    "chunk_id": "p24_c009",
+    "page_number": 24,
+    "section_number": "",
+    "section_title": "",
+    "source": "NICE_Hypertension_NG136",
+    "text": "**1.7.3** When a woman with a known or suspected mental health problem is referred in pregnancy or the postnatal period, assess for treatment within 2 weeks of referral and provide psychological interventions within 1 month of initial assessment. **[2014]**",
+    "char_count": 257
+  },
+  {
+    "chunk_id": "p24_c010",
+    "page_number": 24,
+    "section_number": "",
+    "section_title": "",
+    "source": "NICE_Hypertension_NG136",
+    "text": "**1.7.4** When offering psychotropic medication during pregnancy and the postnatal period, follow the principles in recommendations 1.4.10 to 1.4.37. **[2014]**\n\n48",
+    "char_count": 164
+  },
+  {
+    "chunk_id": "p25_c000",
+    "page_number": 25,
+    "section_number": "1.8",
+    "section_title": "Treating specific mental health problems in pregnancy and the",
+    "source": "NICE_Hypertension_NG136",
+    "text": "Antenatal and postnatal mental health: clinical management and service guidance (CG192)\n\n# 1.8 Treating specific mental health problems in pregnancy and the postnatal period\n\n## Interventions for depression",
+    "char_count": 206
+  },
+  {
+    "chunk_id": "p25_c001",
+    "page_number": 25,
+    "section_number": "1.8.1",
+    "section_title": "For a woman with persistent subthreshold depressive symptoms,",
+    "source": "NICE_Hypertension_NG136",
+    "text": "## Interventions for depression\n\n1.8.1 For a woman with persistent subthreshold depressive symptoms, or mild to moderate depression, in pregnancy or the postnatal period, consider facilitated self-help (delivered as described in NICE's guideline on depression in adults). [2014]",
+    "char_count": 278
+  },
+  {
+    "chunk_id": "p25_c002",
+    "page_number": 25,
+    "section_number": "1.8.2",
+    "section_title": "For a woman with a history of severe depression who initially",
+    "source": "NICE_Hypertension_NG136",
+    "text": "1.8.2 For a woman with a history of severe depression who initially presents with mild depression in pregnancy or the postnatal period, consider a TCA, SSRI or (S)NRI. [2014]\n\n1.8.3 For a woman with moderate or severe depression in pregnancy or the postnatal period, consider the following options:",
+    "char_count": 298
+  },
+  {
+    "chunk_id": "p25_c003",
+    "page_number": 25,
+    "section_number": "",
+    "section_title": "",
+    "source": "NICE_Hypertension_NG136",
+    "text": "- a high-intensity psychological intervention (for example, CBT)\n\n- a TCA, SSRI or (S)NRI if the woman understands the risks associated with the medication and the mental health problem in pregnancy and the postnatal period and:\n\n- － she has expressed a preference for medication or",
+    "char_count": 282
+  },
+  {
+    "chunk_id": "p25_c004",
+    "page_number": 25,
+    "section_number": "",
+    "section_title": "",
+    "source": "NICE_Hypertension_NG136",
+    "text": "- － she has expressed a preference for medication or\n\n- － she declines psychological interventions or\n\n- － her symptoms have not responded to psychological interventions",
+    "char_count": 169
+  },
+  {
+    "chunk_id": "p25_c005",
+    "page_number": 25,
+    "section_number": "",
+    "section_title": "",
+    "source": "NICE_Hypertension_NG136",
+    "text": "- a high-intensity psychological intervention in combination with medication if the woman understands the risks associated with the medication and the mental health problem in pregnancy and the postnatal period and there is no response, or a limited response, to a high-intensity psychological",
+    "char_count": 293
+  },
+  {
+    "chunk_id": "p25_c006",
+    "page_number": 25,
+    "section_number": "",
+    "section_title": "",
+    "source": "NICE_Hypertension_NG136",
+    "text": "postnatal period and there is no response, or a limited response, to a high-intensity psychological intervention or medication alone",
+    "char_count": 132
+  },
+  {
+    "chunk_id": "p25_c007",
+    "page_number": 25,
+    "section_number": "",
+    "section_title": "",
+    "source": "NICE_Hypertension_NG136",
+    "text": ". **[2014]**",
+    "char_count": 12
+  },
+  {
+    "chunk_id": "p25_c008",
+    "page_number": 25,
+    "section_number": "1.8.4",
+    "section_title": "If a woman who is taking a TCA, SSRI or (S)NRI for mild to mo",
+    "source": "NICE_Hypertension_NG136",
+    "text": "1.8.4 If a woman who is taking a TCA, SSRI or (S)NRI for mild to moderate depression becomes pregnant, discuss stopping the medication gradually and consider facilitated self-help (delivered as described in NICE's guideline on depression in \n\n48",
+    "char_count": 245
+  },
+  {
+    "chunk_id": "p26_c000",
+    "page_number": 26,
+    "section_number": "",
+    "section_title": "",
+    "source": "NICE_Hypertension_NG136",
+    "text": "Antenatal and postnatal mental health: clinical management and service guidance (CG192)\n\nadults. **[2014]**",
+    "char_count": 107
+  },
+  {
+    "chunk_id": "p26_c001",
+    "page_number": 26,
+    "section_number": "1.8.5",
+    "section_title": "If a pregnant woman is taking a TCA, SSRI or (S)NRI for moder",
+    "source": "NICE_Hypertension_NG136",
+    "text": "1.8.5 If a pregnant woman is taking a TCA, SSRI or (S)NRI for moderate depression and wants to stop her medication, take into account previous response to treatment, stage of pregnancy, risk of relapse, risk associated with medication and her preference, and discuss with her the following options:",
+    "char_count": 298
+  },
+  {
+    "chunk_id": "p26_c002",
+    "page_number": 26,
+    "section_number": "",
+    "section_title": "",
+    "source": "NICE_Hypertension_NG136",
+    "text": "- switching to a high-intensity psychological intervention (for example, CBT)\n\n- changing medication if there is a drug that is effective for her with a lower risk of adverse effects. **[2014]**",
+    "char_count": 194
+  },
+  {
+    "chunk_id": "p26_c003",
+    "page_number": 26,
+    "section_number": "1.8.6",
+    "section_title": "If a pregnant woman is taking a TCA, SSRI or (S)NRI for sever",
+    "source": "NICE_Hypertension_NG136",
+    "text": "1.8.6 If a pregnant woman is taking a TCA, SSRI or (S)NRI for severe depression, take into account previous response to treatment, stage of pregnancy, risk of relapse, risk associated with medication and her preference, and discuss with her the following options:",
+    "char_count": 263
+  },
+  {
+    "chunk_id": "p26_c004",
+    "page_number": 26,
+    "section_number": "",
+    "section_title": "",
+    "source": "NICE_Hypertension_NG136",
+    "text": "- continuing with the current medication\n\n- changing medication if there is a drug that is effective for her with a lower risk of adverse effects\n\n- combining medication with a high-intensity psychological intervention (for example, CBT)",
+    "char_count": 237
+  },
+  {
+    "chunk_id": "p26_c005",
+    "page_number": 26,
+    "section_number": "",
+    "section_title": "Interventions for anxiety disorders",
+    "source": "NICE_Hypertension_NG136",
+    "text": "- combining medication with a high-intensity psychological intervention (for example, CBT)\n\n- switching to a high-intensity psychological intervention (for example, CBT) if she decides to stop taking medication. **[2014]**\n\n# Interventions for anxiety disorders",
+    "char_count": 261
+  },
+  {
+    "chunk_id": "p26_c006",
+    "page_number": 26,
+    "section_number": "1.8.7",
+    "section_title": "For a woman with tokophobia (an extreme fear of childbirth),",
+    "source": "NICE_Hypertension_NG136",
+    "text": "1.8.7 For a woman with tokophobia (an extreme fear of childbirth), offer an opportunity to discuss her fears with a healthcare professional with expertise in providing perinatal mental health support in line with the NICE guideline on caesarean birth. **[2014]**",
+    "char_count": 262
+  },
+  {
+    "chunk_id": "p26_c007",
+    "page_number": 26,
+    "section_number": "1.8.8",
+    "section_title": "For a woman with persistent subthreshold symptoms of anxiety",
+    "source": "NICE_Hypertension_NG136",
+    "text": "1.8.8 For a woman with persistent subthreshold symptoms of anxiety in pregnancy or the postnatal period, consider facilitated self-help. This should consist of use of CBT-based self-help materials over 2 to 3 months with support (either face to\n\n48",
+    "char_count": 248
+  },
+  {
+    "chunk_id": "p27_c000",
+    "page_number": 27,
+    "section_number": "",
+    "section_title": "",
+    "source": "NICE_Hypertension_NG136",
+    "text": "Antenatal and postnatal mental health: clinical management and service guidance (CG192)\n\nface or by telephone) for a total of 2 to 3 hours over 6 sessions. **[2014]**",
+    "char_count": 166
+  },
+  {
+    "chunk_id": "p27_c001",
+    "page_number": 27,
+    "section_number": "",
+    "section_title": "",
+    "source": "NICE_Hypertension_NG136",
+    "text": "**1.8.9** For a woman with an anxiety disorder in pregnancy or the postnatal period, offer a low-intensity psychological intervention (for example, facilitated self-help) or a high-intensity psychological intervention (for example, CBT) as initial treatment in line with the recommendations set out",
+    "char_count": 298
+  },
+  {
+    "chunk_id": "p27_c002",
+    "page_number": 27,
+    "section_number": "",
+    "section_title": "",
+    "source": "NICE_Hypertension_NG136",
+    "text": "intervention (for example, CBT) as initial treatment in line with the recommendations set out in the NICE guideline for the specific mental health problem and be aware that:",
+    "char_count": 173
+  },
+  {
+    "chunk_id": "p27_c003",
+    "page_number": 27,
+    "section_number": "",
+    "section_title": "",
+    "source": "NICE_Hypertension_NG136",
+    "text": "- only high-intensity psychological interventions are recommended for post-traumatic stress disorder\n\n- high-intensity psychological interventions are recommended for the initial treatment of social anxiety disorder",
+    "char_count": 215
+  },
+  {
+    "chunk_id": "p27_c004",
+    "page_number": 27,
+    "section_number": "",
+    "section_title": "",
+    "source": "NICE_Hypertension_NG136",
+    "text": "- progress should be closely monitored and a high-intensity psychological intervention offered within 2 weeks if symptoms have not improved. **[2014]**\n\n**1.8.10** If a woman who is taking a TCA, SSRI or (S)NRI for an anxiety disorder becomes pregnant, discuss with her the following options:",
+    "char_count": 292
+  },
+  {
+    "chunk_id": "p27_c005",
+    "page_number": 27,
+    "section_number": "",
+    "section_title": "",
+    "source": "NICE_Hypertension_NG136",
+    "text": "- stopping the medication gradually and switching to a high-intensity psychological intervention (for example, CBT)\n\n- continuing with medication if she understands the risks associated with the medication and the mental health problem in pregnancy and the postnatal period and:",
+    "char_count": 278
+  },
+  {
+    "chunk_id": "p27_c006",
+    "page_number": 27,
+    "section_number": "",
+    "section_title": "",
+    "source": "NICE_Hypertension_NG136",
+    "text": "- has expressed a preference for medication or\n\n- declines psychological interventions or\n\n- her symptoms have not responded to psychological interventions\n\n- changing medication if there is a drug that is effective for her with a lower risk of adverse effects",
+    "char_count": 260
+  },
+  {
+    "chunk_id": "p27_c007",
+    "page_number": 27,
+    "section_number": "",
+    "section_title": "",
+    "source": "NICE_Hypertension_NG136",
+    "text": "- combining medication with a high-intensity psychological intervention (for example, CBT) if the woman understands the risks associated with the medication and the mental health problem in pregnancy and the postnatal period and there is no response, or a limited response, to a high-intensity",
+    "char_count": 293
+  },
+  {
+    "chunk_id": "p27_c008",
+    "page_number": 27,
+    "section_number": "",
+    "section_title": "",
+    "source": "NICE_Hypertension_NG136",
+    "text": "and the postnatal period and there is no response, or a limited response, to a high-intensity psychological intervention alone",
+    "char_count": 126
+  },
+  {
+    "chunk_id": "p27_c009",
+    "page_number": 27,
+    "section_number": "",
+    "section_title": "",
+    "source": "NICE_Hypertension_NG136",
+    "text": ". **[2014]**",
+    "char_count": 12
+  },
+  {
+    "chunk_id": "p27_c010",
+    "page_number": 27,
+    "section_number": "",
+    "section_title": "",
+    "source": "NICE_Hypertension_NG136",
+    "text": "48",
+    "char_count": 2
+  },
+  {
+    "chunk_id": "p28_c000",
+    "page_number": 28,
+    "section_number": "1.8.11",
+    "section_title": "For a woman with an eating disorder in pregnancy or the postn",
+    "source": "NICE_Hypertension_NG136",
+    "text": "Antenatal and postnatal mental health: clinical management and service guidance (CG192)\n\n# Psychological interventions for eating disorders\n\n1.8.11 For a woman with an eating disorder in pregnancy or the postnatal period:",
+    "char_count": 221
+  },
+  {
+    "chunk_id": "p28_c001",
+    "page_number": 28,
+    "section_number": "1.8.11",
+    "section_title": "For a woman with an eating disorder in pregnancy or the postn",
+    "source": "NICE_Hypertension_NG136",
+    "text": "1.8.11 For a woman with an eating disorder in pregnancy or the postnatal period:\n\n- offer a psychological intervention in line with the NICE guideline on eating\ndisorders\n\n- monitor the woman's condition carefully throughout pregnancy and the postnatal period",
+    "char_count": 259
+  },
+  {
+    "chunk_id": "p28_c002",
+    "page_number": 28,
+    "section_number": "",
+    "section_title": "",
+    "source": "NICE_Hypertension_NG136",
+    "text": "- monitor the woman's condition carefully throughout pregnancy and the postnatal period\n\n- assess the need for fetal growth scans\n\n- discuss the importance of healthy eating during pregnancy and the postnatal period in line with the NICE guideline on maternal and child nutrition",
+    "char_count": 279
+  },
+  {
+    "chunk_id": "p28_c003",
+    "page_number": 28,
+    "section_number": "",
+    "section_title": "Interventions for alcohol and drug misuse",
+    "source": "NICE_Hypertension_NG136",
+    "text": "- advise her about feeding the baby in line with the NICE guideline on maternal and child nutrition and support her with this. **[2014]**\n\n## Interventions for alcohol and drug misuse",
+    "char_count": 183
+  },
+  {
+    "chunk_id": "p28_c004",
+    "page_number": 28,
+    "section_number": "1.8.12",
+    "section_title": "If hazardous drug or alcohol misuse is identified in pregnanc",
+    "source": "NICE_Hypertension_NG136",
+    "text": "1.8.12 If hazardous drug or alcohol misuse is identified in pregnancy or the postnatal period, refer or offer brief interventions in line with section 1.3.1 of the NICE\nguideline on drug misuse in over 16s: psychosocial interventions or the NICE",
+    "char_count": 245
+  },
+  {
+    "chunk_id": "p28_c005",
+    "page_number": 28,
+    "section_number": "",
+    "section_title": "",
+    "source": "NICE_Hypertension_NG136",
+    "text": "guideline on drug misuse in over 16s: psychosocial interventions or the NICE\nguideline on alcohol-use disorders: prevention. **[2014]**",
+    "char_count": 135
+  },
+  {
+    "chunk_id": "p28_c006",
+    "page_number": 28,
+    "section_number": "1.8.13",
+    "section_title": "If harmful or dependent drug or alcohol misuse is identified",
+    "source": "NICE_Hypertension_NG136",
+    "text": "1.8.13 If harmful or dependent drug or alcohol misuse is identified in pregnancy or the postnatal period, refer the woman to a specialist substance misuse service for advice and treatment. **[2014]**",
+    "char_count": 199
+  },
+  {
+    "chunk_id": "p28_c007",
+    "page_number": 28,
+    "section_number": "1.8.14",
+    "section_title": "Offer assisted alcohol withdrawal in collaboration with speci",
+    "source": "NICE_Hypertension_NG136",
+    "text": "1.8.14 Offer assisted alcohol withdrawal in collaboration with specialist mental health and alcohol services (preferably in an inpatient setting) to pregnant women who are dependent on alcohol. Work with a woman who does not want assisted alcohol withdrawal to help her reduce her alcohol intake",
+    "char_count": 295
+  },
+  {
+    "chunk_id": "p28_c008",
+    "page_number": 28,
+    "section_number": "",
+    "section_title": "",
+    "source": "NICE_Hypertension_NG136",
+    "text": ". **[2014]**",
+    "char_count": 12
+  },
+  {
+    "chunk_id": "p28_c009",
+    "page_number": 28,
+    "section_number": "1.8.15",
+    "section_title": "Offer detoxification in collaboration with specialist mental",
+    "source": "NICE_Hypertension_NG136",
+    "text": "1.8.15 Offer detoxification in collaboration with specialist mental health and substance misuse services to pregnant women who are dependent on opioids. Monitor closely after completion of detoxification. Work with a woman who does not want detoxification to help her reduce her opioid intake",
+    "char_count": 292
+  },
+  {
+    "chunk_id": "p28_c010",
+    "page_number": 28,
+    "section_number": "",
+    "section_title": "",
+    "source": "NICE_Hypertension_NG136",
+    "text": ". Work with a woman who does not want detoxification to help her reduce her opioid intake. Recognise the risk of",
+    "char_count": 112
+  },
+  {
+    "chunk_id": "p28_c011",
+    "page_number": 28,
+    "section_number": "",
+    "section_title": "",
+    "source": "NICE_Hypertension_NG136",
+    "text": "48",
+    "char_count": 2
+  },
+  {
+    "chunk_id": "p29_c000",
+    "page_number": 29,
+    "section_number": "",
+    "section_title": "Interventions for severe mental illness",
+    "source": "NICE_Hypertension_NG136",
+    "text": "Antenatal and postnatal mental health: clinical management and service guidance (CG192)\n\naccidental overdose in women who stop or reduce drug misuse in pregnancy but start misusing again after childbirth. **[2014]**\n\n# Interventions for severe mental illness",
+    "char_count": 258
+  },
+  {
+    "chunk_id": "p29_c001",
+    "page_number": 29,
+    "section_number": "1.8.16",
+    "section_title": "Consider psychological interventions for women with bipolar d",
+    "source": "NICE_Hypertension_NG136",
+    "text": "# Interventions for severe mental illness\n\n1.8.16 Consider psychological interventions for women with bipolar disorder. This includes:\n\n- CBT, IPT and behavioural couples therapy for bipolar depression",
+    "char_count": 201
+  },
+  {
+    "chunk_id": "p29_c002",
+    "page_number": 29,
+    "section_number": "",
+    "section_title": "",
+    "source": "NICE_Hypertension_NG136",
+    "text": "- CBT, IPT and behavioural couples therapy for bipolar depression\n\n- structured individual, group and family interventions designed for bipolar disorder to reduce the risk of relapse, particularly when medication is changed or stopped. **[2014]**",
+    "char_count": 246
+  },
+  {
+    "chunk_id": "p29_c003",
+    "page_number": 29,
+    "section_number": "1.8.17",
+    "section_title": "If a pregnant woman develops mania or psychosis and is not ta",
+    "source": "NICE_Hypertension_NG136",
+    "text": "1.8.17 If a pregnant woman develops mania or psychosis and is not taking psychotropic medication, offer an antipsychotic. **[2014]**",
+    "char_count": 132
+  },
+  {
+    "chunk_id": "p29_c004",
+    "page_number": 29,
+    "section_number": "1.8.18",
+    "section_title": "Consider psychological interventions (CBT or family intervent",
+    "source": "NICE_Hypertension_NG136",
+    "text": "1.8.18 Consider psychological interventions (CBT or family intervention) delivered as described in the section on how to deliver psychological interventions in the NICE guideline on psychosis and schizophrenia in adults, for a woman with psychosis or schizophrenia who becomes pregnant and is at",
+    "char_count": 295
+  },
+  {
+    "chunk_id": "p29_c005",
+    "page_number": 29,
+    "section_number": "",
+    "section_title": "",
+    "source": "NICE_Hypertension_NG136",
+    "text": "schizophrenia in adults, for a woman with psychosis or schizophrenia who becomes pregnant and is at risk of relapse arising from:",
+    "char_count": 129
+  },
+  {
+    "chunk_id": "p29_c006",
+    "page_number": 29,
+    "section_number": "",
+    "section_title": "",
+    "source": "NICE_Hypertension_NG136",
+    "text": "- stress associated with pregnancy or the postnatal period\n\n- a change in medication, including stopping antipsychotic medication. **[2014]**",
+    "char_count": 141
+  },
+  {
+    "chunk_id": "p29_c007",
+    "page_number": 29,
+    "section_number": "1.8.19",
+    "section_title": "Offer an antipsychotic in line with recommendations 1.5.3 and",
+    "source": "NICE_Hypertension_NG136",
+    "text": "- a change in medication, including stopping antipsychotic medication. **[2014]**\n\n1.8.19 Offer an antipsychotic in line with recommendations 1.5.3 and 1.5.4 of the NICE guideline on bipolar disorder as prophylactic medication if a woman with bipolar disorder:",
+    "char_count": 260
+  },
+  {
+    "chunk_id": "p29_c008",
+    "page_number": 29,
+    "section_number": "1.8.20",
+    "section_title": "If a pregnant woman with bipolar disorder develops mania whil",
+    "source": "NICE_Hypertension_NG136",
+    "text": "- becomes pregnant and is stopping lithium, or\n\n- plans to breastfeed. **[2014]**\n\n1.8.20 If a pregnant woman with bipolar disorder develops mania while taking prophylactic medication:\n\n- check the dose of the prophylactic medication and adherence\n\n48",
+    "char_count": 251
+  },
+  {
+    "chunk_id": "p30_c000",
+    "page_number": 30,
+    "section_number": "",
+    "section_title": "",
+    "source": "NICE_Hypertension_NG136",
+    "text": "Antenatal and postnatal mental health: clinical management and service guidance (CG192)\n\n- increase the dose if the prophylactic medication is an antipsychotic\n\n- suggest changing to an antipsychotic if she is taking another type of prophylactic medication",
+    "char_count": 256
+  },
+  {
+    "chunk_id": "p30_c001",
+    "page_number": 30,
+    "section_number": "",
+    "section_title": "",
+    "source": "NICE_Hypertension_NG136",
+    "text": "- suggest changing to an antipsychotic if she is taking another type of prophylactic medication\n\n- consider lithium if there is no response to an increase in dose or change of drug and the woman has severe mania",
+    "char_count": 211
+  },
+  {
+    "chunk_id": "p30_c002",
+    "page_number": 30,
+    "section_number": "",
+    "section_title": "Interventions for sleep problems",
+    "source": "NICE_Hypertension_NG136",
+    "text": "- consider electroconvulsive therapy (ECT) if there has been no response to lithium. **[2014]**\n\n# **Interventions for sleep problems**",
+    "char_count": 135
+  },
+  {
+    "chunk_id": "p30_c003",
+    "page_number": 30,
+    "section_number": "",
+    "section_title": "Interventions for sleep problems",
+    "source": "NICE_Hypertension_NG136",
+    "text": "# **Interventions for sleep problems**\n\n**1.8.21** Advise pregnant women who have a sleep problem about sleep hygiene (including having a healthy bedtime routine, avoiding caffeine and reducing activity before sleep). For women with a severe or chronic sleep problem, consider promethazine.",
+    "char_count": 290
+  },
+  {
+    "chunk_id": "p30_c004",
+    "page_number": 30,
+    "section_number": "",
+    "section_title": "Electroconvulsive therapy",
+    "source": "NICE_Hypertension_NG136",
+    "text": "In December 2014, this was an off-label use of promethazine. See NICE's information on prescribing medicines. **[2014]**\n\n# **Electroconvulsive therapy**",
+    "char_count": 153
+  },
+  {
+    "chunk_id": "p30_c005",
+    "page_number": 30,
+    "section_number": "",
+    "section_title": "Electroconvulsive therapy",
+    "source": "NICE_Hypertension_NG136",
+    "text": "# **Electroconvulsive therapy**\n\n**1.8.22** Consider electroconvulsive therapy (ECT) for pregnant women with severe depression, severe mixed affective states or mania, or catatonia, whose physical health or that of the fetus is at serious risk. **[2014]**\n\n# **Rapid tranquillisation**",
+    "char_count": 285
+  },
+  {
+    "chunk_id": "p30_c006",
+    "page_number": 30,
+    "section_number": "",
+    "section_title": "",
+    "source": "NICE_Hypertension_NG136",
+    "text": "**1.8.23** A pregnant woman requiring rapid tranquillisation should be treated according to the NICE guidelines on the short-term management of violence and aggression, psychosis and schizophrenia and bipolar disorder (see our topic page on mental health and wellbeing for details), except that:",
+    "char_count": 295
+  },
+  {
+    "chunk_id": "p30_c007",
+    "page_number": 30,
+    "section_number": "",
+    "section_title": "",
+    "source": "NICE_Hypertension_NG136",
+    "text": "- she should not be secluded after rapid tranquillisation\n\n48",
+    "char_count": 61
+  },
+  {
+    "chunk_id": "p31_c000",
+    "page_number": 31,
+    "section_number": "",
+    "section_title": "",
+    "source": "NICE_Hypertension_NG136",
+    "text": "Antenatal and postnatal mental health: clinical management and service guidance (CG192)\n\n- restraint procedures should be adapted to avoid possible harm to the fetus",
+    "char_count": 165
+  },
+  {
+    "chunk_id": "p31_c001",
+    "page_number": 31,
+    "section_number": "",
+    "section_title": "",
+    "source": "NICE_Hypertension_NG136",
+    "text": "- when choosing an agent for rapid tranquillisation in a pregnant woman, an antipsychotic or a benzodiazepine with a short half-life should be considered; if an antipsychotic is used, it should be at the minimum effective dose because of neonatal extrapyramidal symptoms; if a benzodiazepine is",
+    "char_count": 294
+  },
+  {
+    "chunk_id": "p31_c002",
+    "page_number": 31,
+    "section_number": "",
+    "section_title": "",
+    "source": "NICE_Hypertension_NG136",
+    "text": "at the minimum effective dose because of neonatal extrapyramidal symptoms; if a benzodiazepine is used, the risks of floppy baby syndrome should be taken into account",
+    "char_count": 166
+  },
+  {
+    "chunk_id": "p31_c003",
+    "page_number": 31,
+    "section_number": "1.9",
+    "section_title": "Considerations for women and their babies in the postnatal pe",
+    "source": "NICE_Hypertension_NG136",
+    "text": "- during the perinatal period, the woman's care should be managed in close collaboration with a paediatrician and an anaesthetist. **[2007]**\n\n# 1.9 Considerations for women and their babies in the postnatal period\n\n## Reviewing treatment for women with **severe mental illness**",
+    "char_count": 279
+  },
+  {
+    "chunk_id": "p31_c004",
+    "page_number": 31,
+    "section_number": "",
+    "section_title": "Reviewing treatment for women with **severe mental illness",
+    "source": "NICE_Hypertension_NG136",
+    "text": "## Reviewing treatment for women with **severe mental illness**\n\n1.9.1 psychotropic medication as soon as a woman with a past or present severe mental illness is medically stable. **[2014]**\n\n## **Monitoring babies for effects of psychotropic medication taken in pregnancy**",
+    "char_count": 274
+  },
+  {
+    "chunk_id": "p31_c005",
+    "page_number": 31,
+    "section_number": "1.9.2",
+    "section_title": "If a woman has taken psychotropic medication during pregnancy",
+    "source": "NICE_Hypertension_NG136",
+    "text": "## **Monitoring babies for effects of psychotropic medication taken in pregnancy**\n\n1.9.2 If a woman has taken psychotropic medication during pregnancy, carry out a full neonatal assessment of the newborn baby, bearing in mind:",
+    "char_count": 227
+  },
+  {
+    "chunk_id": "p31_c006",
+    "page_number": 31,
+    "section_number": "",
+    "section_title": "",
+    "source": "NICE_Hypertension_NG136",
+    "text": "- the variation in the onset of adverse effects of psychotropic medication\n\n- the need for further monitoring",
+    "char_count": 109
+  },
+  {
+    "chunk_id": "p31_c007",
+    "page_number": 31,
+    "section_number": "",
+    "section_title": "",
+    "source": "NICE_Hypertension_NG136",
+    "text": "- the need for further monitoring\n\n- the need to inform relevant healthcare professionals and the woman and her partner, family or carer of any further monitoring, particularly if the woman has been discharged early. **[2014]**\n\n48",
+    "char_count": 231
+  },
+  {
+    "chunk_id": "p32_c000",
+    "page_number": 32,
+    "section_number": "",
+    "section_title": "Care of women and their babies if there has been alcohol or drug misuse in pregnancy",
+    "source": "NICE_Hypertension_NG136",
+    "text": "Antenatal and postnatal mental health: clinical management and service guidance (CG192)\n\n# Care of women and their babies if there has been alcohol or drug misuse in pregnancy",
+    "char_count": 175
+  },
+  {
+    "chunk_id": "p32_c001",
+    "page_number": 32,
+    "section_number": "1.9.3",
+    "section_title": "If there has been alcohol or drug misuse in pregnancy, offer",
+    "source": "NICE_Hypertension_NG136",
+    "text": "# Care of women and their babies if there has been alcohol or drug misuse in pregnancy\n\n1.9.3 If there has been alcohol or drug misuse in pregnancy, offer treatment and support after childbirth to both the woman and the baby, including:",
+    "char_count": 236
+  },
+  {
+    "chunk_id": "p32_c002",
+    "page_number": 32,
+    "section_number": "",
+    "section_title": "Traumatic birth, stillbirth and miscarriage",
+    "source": "NICE_Hypertension_NG136",
+    "text": "- a full neonatal assessment for any congenital abnormalities or neonatal adaptation syndrome\n\n- continuing psychological treatment and support for the woman\n\n- monitoring of the baby. **[2014]**\n\n## Traumatic birth, stillbirth and miscarriage",
+    "char_count": 243
+  },
+  {
+    "chunk_id": "p32_c003",
+    "page_number": 32,
+    "section_number": "1.9.4",
+    "section_title": "Offer advice and support to women who have had a traumatic bi",
+    "source": "NICE_Hypertension_NG136",
+    "text": "1.9.4 Offer advice and support to women who have had a traumatic birth or miscarriage and wish to talk about their experience. Take into account the effect of the birth or miscarriage on the partner and encourage them to accept support from family and friends. **[2014]**",
+    "char_count": 271
+  },
+  {
+    "chunk_id": "p32_c004",
+    "page_number": 32,
+    "section_number": "1.9.5",
+    "section_title": "Offer women who have post-traumatic stress disorder, which ha",
+    "source": "NICE_Hypertension_NG136",
+    "text": "1.9.5 Offer women who have post-traumatic stress disorder, which has resulted from a traumatic birth, miscarriage, stillbirth or neonatal death, a high-intensity psychological intervention (trauma-focused CBT or eye movement desensitisation and reprocessing [EMDR]) in line with the NICE guideline",
+    "char_count": 297
+  },
+  {
+    "chunk_id": "p32_c005",
+    "page_number": 32,
+    "section_number": "",
+    "section_title": "",
+    "source": "NICE_Hypertension_NG136",
+    "text": "CBT or eye movement desensitisation and reprocessing [EMDR]) in line with the NICE guideline on post- traumatic stress disorder",
+    "char_count": 127
+  },
+  {
+    "chunk_id": "p32_c006",
+    "page_number": 32,
+    "section_number": "",
+    "section_title": "",
+    "source": "NICE_Hypertension_NG136",
+    "text": ". **[2014]**",
+    "char_count": 12
+  },
+  {
+    "chunk_id": "p32_c007",
+    "page_number": 32,
+    "section_number": "",
+    "section_title": "",
+    "source": "NICE_Hypertension_NG136",
+    "text": "1.9.6 **Do not offer** single-session high-intensity psychological interventions with an explicit focus on 're-living' the trauma to women who have a traumatic birth. **[2014]**",
+    "char_count": 177
+  },
+  {
+    "chunk_id": "p32_c008",
+    "page_number": 32,
+    "section_number": "1.9.7",
+    "section_title": "Discuss with a woman whose baby is stillborn or dies soon aft",
+    "source": "NICE_Hypertension_NG136",
+    "text": "1.9.7 Discuss with a woman whose baby is stillborn or dies soon after birth, and her partner and family, the option of 1 or more of the following:\n\n- seeing a photograph of the baby\n\n- having mementos of the baby\n\n- seeing the baby\n\n48",
+    "char_count": 235
+  },
+  {
+    "chunk_id": "p33_c000",
+    "page_number": 33,
+    "section_number": "",
+    "section_title": "",
+    "source": "NICE_Hypertension_NG136",
+    "text": "Antenatal and postnatal mental health: clinical management and service guidance (CG192)\n\n- holding the baby.",
+    "char_count": 108
+  },
+  {
+    "chunk_id": "p33_c001",
+    "page_number": 33,
+    "section_number": "",
+    "section_title": "",
+    "source": "NICE_Hypertension_NG136",
+    "text": "This should be facilitated by an experienced practitioner and the woman and her partner and family should be offered a follow-up appointment in primary or secondary care",
+    "char_count": 169
+  },
+  {
+    "chunk_id": "p33_c002",
+    "page_number": 33,
+    "section_number": "",
+    "section_title": "",
+    "source": "NICE_Hypertension_NG136",
+    "text": ". If it is known that the baby has died in utero, this discussion should take place before the delivery, and continue after delivery if needed. **[2014]**",
+    "char_count": 154
+  },
+  {
+    "chunk_id": "p33_c003",
+    "page_number": 33,
+    "section_number": "",
+    "section_title": "Psychotropic medication and breastfeeding",
+    "source": "NICE_Hypertension_NG136",
+    "text": "# **Psychotropic medication and breastfeeding**",
+    "char_count": 47
+  },
+  {
+    "chunk_id": "p33_c004",
+    "page_number": 33,
+    "section_number": "1.9.8",
+    "section_title": "Encourage women with a mental health problem to breastfeed, u",
+    "source": "NICE_Hypertension_NG136",
+    "text": "1.9.8 Encourage women with a mental health problem to breastfeed, unless they are taking carbamazepine, clozapine or lithium (valproate is not recommended to treat a mental health problem in women or girls of childbearing potential – see the MHRA safety advice on valproate use by women and girls",
+    "char_count": 296
+  },
+  {
+    "chunk_id": "p33_c005",
+    "page_number": 33,
+    "section_number": "",
+    "section_title": "",
+    "source": "NICE_Hypertension_NG136",
+    "text": "or girls of childbearing potential – see the MHRA safety advice on valproate use by women and girls and valproate use in people younger than 55 years)",
+    "char_count": 150
+  },
+  {
+    "chunk_id": "p33_c006",
+    "page_number": 33,
+    "section_number": "",
+    "section_title": "",
+    "source": "NICE_Hypertension_NG136",
+    "text": ". However, support each woman in the choice of feeding method that best suits her and her family. **[2014, amended 2020]**",
+    "char_count": 122
+  },
+  {
+    "chunk_id": "p33_c007",
+    "page_number": 33,
+    "section_number": "1.9.9",
+    "section_title": "When assessing the risks and benefits of TCAs, SSRIs or (S)NR",
+    "source": "NICE_Hypertension_NG136",
+    "text": "1.9.9 When assessing the risks and benefits of TCAs, SSRIs or (S)NRIs for women who are breastfeeding, take into account:\n\n- the limited data about the safety of these drugs and\n\n- the risks associated with switching from a previously effective medication.",
+    "char_count": 256
+  },
+  {
+    "chunk_id": "p33_c008",
+    "page_number": 33,
+    "section_number": "",
+    "section_title": "",
+    "source": "NICE_Hypertension_NG136",
+    "text": "Seek advice from a specialist (preferably from a specialist perinatal mental health service) if needed for specific drugs. See also the UK Drugs in Lactation Advisory Service for information on the use of specific drugs. **[2014, amended 2017]**",
+    "char_count": 245
+  },
+  {
+    "chunk_id": "p33_c009",
+    "page_number": 33,
+    "section_number": "1.9.10",
+    "section_title": "When assessing the risks and benefits of antipsychotic medica",
+    "source": "NICE_Hypertension_NG136",
+    "text": "1.9.10 When assessing the risks and benefits of antipsychotic medication for women who are breastfeeding, take into account:\n\n- the limited data on the safety of these drugs and\n\n- the level of antipsychotic medication in breast milk depends on the drug. **[2014]**\n\n48",
+    "char_count": 269
+  },
+  {
+    "chunk_id": "p34_c000",
+    "page_number": 34,
+    "section_number": "1.9.11",
+    "section_title": "If a woman is taking psychotropic medication while breastfeed",
+    "source": "NICE_Hypertension_NG136",
+    "text": "Antenatal and postnatal mental health: clinical management and service guidance (CG192)\n\n1.9.11 If a woman is taking psychotropic medication while breastfeeding, monitor the baby for adverse effects. **[2014]**\n\n# The mother–baby relationship",
+    "char_count": 242
+  },
+  {
+    "chunk_id": "p34_c001",
+    "page_number": 34,
+    "section_number": "1.9.12",
+    "section_title": "Recognise that some women with a mental health problem may ex",
+    "source": "NICE_Hypertension_NG136",
+    "text": "1.9.12 Recognise that some women with a mental health problem may experience difficulties with the mother–baby relationship. Assess the nature of this relationship, including verbal interaction, emotional sensitivity and physical care, at all postnatal contacts",
+    "char_count": 261
+  },
+  {
+    "chunk_id": "p34_c002",
+    "page_number": 34,
+    "section_number": "",
+    "section_title": "",
+    "source": "NICE_Hypertension_NG136",
+    "text": ". Discuss any concerns that the woman has about her relationship with her baby and provide information and treatment for the mental health problem. **[2014]**",
+    "char_count": 158
+  },
+  {
+    "chunk_id": "p34_c003",
+    "page_number": 34,
+    "section_number": "1.9.13",
+    "section_title": "Consider further intervention to improve the mother–baby rela",
+    "source": "NICE_Hypertension_NG136",
+    "text": "1.9.13 Consider further intervention to improve the mother–baby relationship if any problems in the relationship have not resolved. **[2014]**\n\n## 1.10 The organisation of services",
+    "char_count": 180
+  },
+  {
+    "chunk_id": "p34_c004",
+    "page_number": 34,
+    "section_number": "1.10",
+    "section_title": "The organisation of services",
+    "source": "NICE_Hypertension_NG136",
+    "text": "## 1.10 The organisation of services\n\n1.10.1 Women who need inpatient care for a mental health problem within 12 months of childbirth should normally be admitted to a specialist mother and baby unit, unless there are specific reasons for not doing so. **[2007]**",
+    "char_count": 262
+  },
+  {
+    "chunk_id": "p34_c005",
+    "page_number": 34,
+    "section_number": "1.10.2",
+    "section_title": "Managers and senior healthcare professionals responsible for",
+    "source": "NICE_Hypertension_NG136",
+    "text": "1.10.2 Managers and senior healthcare professionals responsible for perinatal mental health services (including those working in maternity and primary care services) should ensure that:",
+    "char_count": 185
+  },
+  {
+    "chunk_id": "p34_c006",
+    "page_number": 34,
+    "section_number": "",
+    "section_title": "",
+    "source": "NICE_Hypertension_NG136",
+    "text": "- there are clearly specified care pathways so that all primary and secondary healthcare professionals involved in the care of women during pregnancy and the postnatal period know how to access assessment and treatment",
+    "char_count": 218
+  },
+  {
+    "chunk_id": "p34_c007",
+    "page_number": 34,
+    "section_number": "",
+    "section_title": "",
+    "source": "NICE_Hypertension_NG136",
+    "text": "- staff have supervision and training, covering mental health problems, assessment methods and referral routes, to allow them to follow the care pathways. **[2007]**",
+    "char_count": 165
+  },
+  {
+    "chunk_id": "p34_c008",
+    "page_number": 34,
+    "section_number": "1.10.3",
+    "section_title": "Clinical networks should be established for perinatal mental",
+    "source": "NICE_Hypertension_NG136",
+    "text": "1.10.3 Clinical networks should be established for perinatal mental health services, managed by a coordinating board of healthcare professionals, commissioners,\n\n48",
+    "char_count": 164
+  },
+  {
+    "chunk_id": "p35_c000",
+    "page_number": 35,
+    "section_number": "",
+    "section_title": "Antenatal and postnatal mental health: clinical management and service guidance (CG192)",
+    "source": "NICE_Hypertension_NG136",
+    "text": "# Antenatal and postnatal mental health: clinical management and service guidance (CG192)\n\nmanagers, and service users and carers. These networks should provide:",
+    "char_count": 161
+  },
+  {
+    "chunk_id": "p35_c001",
+    "page_number": 35,
+    "section_number": "",
+    "section_title": "",
+    "source": "NICE_Hypertension_NG136",
+    "text": "- a specialist multidisciplinary perinatal service in each locality, which provides direct services, consultation and advice to maternity services, other mental health services and community services; in areas of high morbidity these services may be provided by separate specialist perinatal teams",
+    "char_count": 297
+  },
+  {
+    "chunk_id": "p35_c002",
+    "page_number": 35,
+    "section_number": "",
+    "section_title": "",
+    "source": "NICE_Hypertension_NG136",
+    "text": "- access to specialist expert advice on the risks and benefits of psychotropic medication during pregnancy and breastfeeding",
+    "char_count": 124
+  },
+  {
+    "chunk_id": "p35_c003",
+    "page_number": 35,
+    "section_number": "",
+    "section_title": "",
+    "source": "NICE_Hypertension_NG136",
+    "text": "- clear referral and management protocols for services across all levels of the existing stepped-care frameworks for mental health problems, to ensure effective transfer of information and continuity of care",
+    "char_count": 207
+  },
+  {
+    "chunk_id": "p35_c004",
+    "page_number": 35,
+    "section_number": "",
+    "section_title": "",
+    "source": "NICE_Hypertension_NG136",
+    "text": "- pathways of care for service users, with defined roles and competencies for all professional groups involved. **[2007]**",
+    "char_count": 122
+  },
+  {
+    "chunk_id": "p35_c005",
+    "page_number": 35,
+    "section_number": "1.10.4",
+    "section_title": "Each managed perinatal mental health network should have desi",
+    "source": "NICE_Hypertension_NG136",
+    "text": "1.10.4 Each managed perinatal mental health network should have designated specialist inpatient services and cover a population where there are between 25,000 and 50,000 live births a year, depending on the local psychiatric morbidity rates. **[2007]**",
+    "char_count": 252
+  },
+  {
+    "chunk_id": "p35_c006",
+    "page_number": 35,
+    "section_number": "1.10.5",
+    "section_title": "Specialist perinatal inpatient services should:",
+    "source": "NICE_Hypertension_NG136",
+    "text": "1.10.5 Specialist perinatal inpatient services should:\n\n- provide facilities designed specifically for mothers and babies (typically with 6 to 12 beds)\n\n- be staffed by specialist perinatal mental health staff\n\n- be staffed to provide appropriate care for babies",
+    "char_count": 262
+  },
+  {
+    "chunk_id": "p35_c007",
+    "page_number": 35,
+    "section_number": "",
+    "section_title": "",
+    "source": "NICE_Hypertension_NG136",
+    "text": "- be staffed to provide appropriate care for babies\n\n- have effective liaison with general medical and mental health services\n\n- have available the full range of therapeutic services",
+    "char_count": 182
+  },
+  {
+    "chunk_id": "p35_c008",
+    "page_number": 35,
+    "section_number": "",
+    "section_title": "",
+    "source": "NICE_Hypertension_NG136",
+    "text": "- have available the full range of therapeutic services\n\n- be closely integrated with community-based mental health services to ensure continuity of care and minimum length of stay. **[2007]**\n\n48",
+    "char_count": 196
+  },
+  {
+    "chunk_id": "p36_c000",
+    "page_number": 36,
+    "section_number": "",
+    "section_title": "Terms used in this guideline",
+    "source": "NICE_Hypertension_NG136",
+    "text": "Antenatal and postnatal mental health: clinical management and service guidance (CG192)\n\n# Terms used in this guideline\n\n## Anxiety disorders",
+    "char_count": 141
+  },
+  {
+    "chunk_id": "p36_c001",
+    "page_number": 36,
+    "section_number": "",
+    "section_title": "Terms used in this guideline",
+    "source": "NICE_Hypertension_NG136",
+    "text": "# Terms used in this guideline\n\n## Anxiety disorders\n\nThese include generalised anxiety disorder, panic disorder, obsessive-compulsive disorder, phobias, post-traumatic stress disorder and social anxiety disorder.\n\n## Baby\n\nRefers to an infant aged between 0 and 12 months.",
+    "char_count": 273
+  },
+  {
+    "chunk_id": "p36_c002",
+    "page_number": 36,
+    "section_number": "",
+    "section_title": "Baby",
+    "source": "NICE_Hypertension_NG136",
+    "text": "## Baby\n\nRefers to an infant aged between 0 and 12 months.\n\n## **High-intensity psychological intervention**",
+    "char_count": 108
+  },
+  {
+    "chunk_id": "p36_c003",
+    "page_number": 36,
+    "section_number": "",
+    "section_title": "High-intensity psychological intervention",
+    "source": "NICE_Hypertension_NG136",
+    "text": "## **High-intensity psychological intervention**\n\nA formal psychological intervention usually delivered face to face (either in a group or individually) by a qualified therapist who has specific training in the delivery of the intervention.\n\n## **Low-intensity intervention**",
+    "char_count": 275
+  },
+  {
+    "chunk_id": "p36_c004",
+    "page_number": 36,
+    "section_number": "",
+    "section_title": "Low-intensity intervention",
+    "source": "NICE_Hypertension_NG136",
+    "text": "## **Low-intensity intervention**\n\nA psychological or psychosocial intervention delivered by a trained coach or facilitator (rather than a therapist) to enable use of self-help materials.\n\n## **Postnatal period**\n\nThis is defined in this guideline as up to 1 year after childbirth.",
+    "char_count": 281
+  },
+  {
+    "chunk_id": "p36_c005",
+    "page_number": 36,
+    "section_number": "",
+    "section_title": "Postnatal period",
+    "source": "NICE_Hypertension_NG136",
+    "text": "## **Postnatal period**\n\nThis is defined in this guideline as up to 1 year after childbirth.\n\n## **Postpartum psychosis**\n\nPsychosis often with mania and/or depressive symptoms in the immediate postnatal period, which can become very severe extremely quickly.\n\n## **Psychotropic medication**",
+    "char_count": 291
+  },
+  {
+    "chunk_id": "p36_c006",
+    "page_number": 36,
+    "section_number": "",
+    "section_title": "Psychotropic medication",
+    "source": "NICE_Hypertension_NG136",
+    "text": "## **Psychotropic medication**\n\nThis is defined in this guideline as all medication used to treat mental health problems.\n\n48",
+    "char_count": 125
+  },
+  {
+    "chunk_id": "p37_c000",
+    "page_number": 37,
+    "section_number": "",
+    "section_title": "Severe mental illness",
+    "source": "NICE_Hypertension_NG136",
+    "text": "Antenatal and postnatal mental health: clinical management and service guidance (CG192)\n\n# Severe mental illness\n\nThis is defined in this guideline as severe and incapacitating depression, psychosis, schizophrenia, bipolar disorder, schizoaffective disorder and postpartum psychosis.",
+    "char_count": 283
+  },
+  {
+    "chunk_id": "p37_c001",
+    "page_number": 37,
+    "section_number": "",
+    "section_title": "Traumatic birth",
+    "source": "NICE_Hypertension_NG136",
+    "text": "# Traumatic birth",
+    "char_count": 17
+  },
+  {
+    "chunk_id": "p37_c002",
+    "page_number": 37,
+    "section_number": "",
+    "section_title": "",
+    "source": "NICE_Hypertension_NG136",
+    "text": "This includes births, whether preterm or full term, which are physically traumatic (for example, instrumental or assisted deliveries or emergency caesarean sections, severe perineal tears, postpartum haemorrhage) and births that are experienced as traumatic, even when the delivery is obstetrically",
+    "char_count": 298
+  },
+  {
+    "chunk_id": "p37_c003",
+    "page_number": 37,
+    "section_number": "",
+    "section_title": "",
+    "source": "NICE_Hypertension_NG136",
+    "text": "haemorrhage) and births that are experienced as traumatic, even when the delivery is obstetrically straightforward.",
+    "char_count": 115
+  },
+  {
+    "chunk_id": "p37_c004",
+    "page_number": 37,
+    "section_number": "",
+    "section_title": "Valproate",
+    "source": "NICE_Hypertension_NG136",
+    "text": "# Valproate",
+    "char_count": 11
+  },
+  {
+    "chunk_id": "p37_c005",
+    "page_number": 37,
+    "section_number": "",
+    "section_title": "",
+    "source": "NICE_Hypertension_NG136",
+    "text": "Refers to 3 formulations of valproate available in the UK: sodium valproate and valproic acid (licensed for the treatment of epilepsy) and semi-sodium valproate (licensed for the treatment of acute mania and continuation treatment in people whose mania responds to treatment)",
+    "char_count": 275
+  },
+  {
+    "chunk_id": "p37_c006",
+    "page_number": 37,
+    "section_number": "",
+    "section_title": "",
+    "source": "NICE_Hypertension_NG136",
+    "text": ". Both semi-sodium and sodium valproate are metabolised to valproic acid (also known as valproate), which is the pharmacologically active component. Valproate must not be used in pregnancy, and only used in girls and women when there is no alternative and a pregnancy prevention plan is in place",
+    "char_count": 295
+  },
+  {
+    "chunk_id": "p37_c007",
+    "page_number": 37,
+    "section_number": "",
+    "section_title": "",
+    "source": "NICE_Hypertension_NG136",
+    "text": ". This is because of the risk of malformations and developmental abnormalities in the baby. See update information for important safety advice from the MHRA on the use of valproate.",
+    "char_count": 181
+  },
+  {
+    "chunk_id": "p37_c008",
+    "page_number": 37,
+    "section_number": "",
+    "section_title": "Woman/women",
+    "source": "NICE_Hypertension_NG136",
+    "text": "# Woman/women\n\nRefer(s) to female(s) of childbearing potential, including girls and young women under 18 years.",
+    "char_count": 111
+  },
+  {
+    "chunk_id": "p38_c000",
+    "page_number": 38,
+    "section_number": "",
+    "section_title": "Recommendations for research",
+    "source": "NICE_Hypertension_NG136",
+    "text": "Antenatal and postnatal mental health: clinical management and service guidance (CG192)\n\n# Recommendations for research",
+    "char_count": 119
+  },
+  {
+    "chunk_id": "p38_c001",
+    "page_number": 38,
+    "section_number": "",
+    "section_title": "",
+    "source": "NICE_Hypertension_NG136",
+    "text": "The Guideline Development Group has made the following recommendations for research, based on its review of evidence, to improve NICE guidance and patient care in the future. The Guideline Development Group's full set of recommendations for research are detailed in the full guideline.",
+    "char_count": 285
+  },
+  {
+    "chunk_id": "p38_c002",
+    "page_number": 38,
+    "section_number": "",
+    "section_title": "1 Preventing postpartum psychosis",
+    "source": "NICE_Hypertension_NG136",
+    "text": "## 1 Preventing postpartum psychosis\n\nWhat methods can improve the identification of women at high risk of postpartum psychosis and reduce this risk?\n\n## Why this is important",
+    "char_count": 175
+  },
+  {
+    "chunk_id": "p38_c003",
+    "page_number": 38,
+    "section_number": "",
+    "section_title": "",
+    "source": "NICE_Hypertension_NG136",
+    "text": "Postpartum psychosis is a severe mental illness with a rapid onset and a major impact on the woman and her ability to care for her baby. It is associated with an increased risk of mortality in both the woman and her baby",
+    "char_count": 220
+  },
+  {
+    "chunk_id": "p38_c004",
+    "page_number": 38,
+    "section_number": "",
+    "section_title": "",
+    "source": "NICE_Hypertension_NG136",
+    "text": ". It is associated with an increased risk of mortality in both the woman and her baby. Prophylactic treatment can be effective for women who are known to be at high risk, but for some women postpartum psychosis may be their first episode of severe mental illness",
+    "char_count": 262
+  },
+  {
+    "chunk_id": "p38_c005",
+    "page_number": 38,
+    "section_number": "",
+    "section_title": "",
+    "source": "NICE_Hypertension_NG136",
+    "text": ". Better identification of women at high risk and a greater understanding of prophylactic and acute treatment would have a significant impact on maternal and child welfare, and on service costs.",
+    "char_count": 194
+  },
+  {
+    "chunk_id": "p38_c006",
+    "page_number": 38,
+    "section_number": "",
+    "section_title": "",
+    "source": "NICE_Hypertension_NG136",
+    "text": "The question should be addressed by a programme of research into the prevention, treatment and management of postpartum psychosis comprising:",
+    "char_count": 141
+  },
+  {
+    "chunk_id": "p38_c007",
+    "page_number": 38,
+    "section_number": "",
+    "section_title": "",
+    "source": "NICE_Hypertension_NG136",
+    "text": "- The development of a tool for routine clinical use to improve the identification of women at high risk of developing postpartum psychosis. This should be tested in a prospective cohort study.",
+    "char_count": 193
+  },
+  {
+    "chunk_id": "p38_c008",
+    "page_number": 38,
+    "section_number": "",
+    "section_title": "",
+    "source": "NICE_Hypertension_NG136",
+    "text": "- The development of a set of interventions intended to prevent the onset of postpartum psychosis and a method for their effective and efficient delivery.\n\n- The testing of the clinical and cost effectiveness of the interventions in a large scale randomised controlled trial.",
+    "char_count": 275
+  },
+  {
+    "chunk_id": "p38_c009",
+    "page_number": 38,
+    "section_number": "",
+    "section_title": "",
+    "source": "NICE_Hypertension_NG136",
+    "text": "- The development and testing of a programme for the implementation of an effective strategy for preventing and identifying postpartum psychosis.\n\n48",
+    "char_count": 149
+  },
+  {
+    "chunk_id": "p39_c000",
+    "page_number": 39,
+    "section_number": "",
+    "section_title": "2 The safety of drugs for bipolar disorder in pregnancy and the postnatal period",
+    "source": "NICE_Hypertension_NG136",
+    "text": "Antenatal and postnatal mental health: clinical management and service guidance (CG192)\n\n# 2 The safety of drugs for bipolar disorder in pregnancy and the postnatal period\n\nHow safe are drugs used to treat bipolar disorder in pregnancy and the postnatal period?\n\n## Why this is important",
+    "char_count": 287
+  },
+  {
+    "chunk_id": "p39_c001",
+    "page_number": 39,
+    "section_number": "",
+    "section_title": "",
+    "source": "NICE_Hypertension_NG136",
+    "text": "Drugs are effective for the acute treatment of bipolar disorder and for preventing relapse. All drugs used to treat mental health problems may carry some risk for the woman, fetus and baby",
+    "char_count": 188
+  },
+  {
+    "chunk_id": "p39_c002",
+    "page_number": 39,
+    "section_number": "",
+    "section_title": "",
+    "source": "NICE_Hypertension_NG136",
+    "text": ". All drugs used to treat mental health problems may carry some risk for the woman, fetus and baby. For some drugs such as sodium valproate these risks are well described, but the data are drawn from epilepsy case registers. For others such as lithium, the data are very limited",
+    "char_count": 278
+  },
+  {
+    "chunk_id": "p39_c003",
+    "page_number": 39,
+    "section_number": "",
+    "section_title": "",
+    "source": "NICE_Hypertension_NG136",
+    "text": ". For others such as lithium, the data are very limited. In addition, the prevalence of adverse outcomes for the woman, fetus or baby in untreated bipolar disorder is not well described.",
+    "char_count": 186
+  },
+  {
+    "chunk_id": "p39_c004",
+    "page_number": 39,
+    "section_number": "",
+    "section_title": "",
+    "source": "NICE_Hypertension_NG136",
+    "text": "The question should be addressed by establishing a long-term register of women with bipolar disorder to provide data on:\n\n- the drugs used for treating bipolar disorder in pregnancy\n\n- the following outcomes (by drug type and for women who had no treatment for bipolar disorder in pregnancy):",
+    "char_count": 292
+  },
+  {
+    "chunk_id": "p39_c005",
+    "page_number": 39,
+    "section_number": "",
+    "section_title": "",
+    "source": "NICE_Hypertension_NG136",
+    "text": "- maternal outcomes (for example, episodes of mood disorder in pregnancy and the postnatal period, miscarriage, preterm delivery)\n\n- congenital malformations (for example, spinal cord and cardiac malformation)\n\n- baby outcomes (for example, mortality, birthweight)",
+    "char_count": 264
+  },
+  {
+    "chunk_id": "p39_c006",
+    "page_number": 39,
+    "section_number": "",
+    "section_title": "3 Psychological interventions focused on the **mother-baby relationship",
+    "source": "NICE_Hypertension_NG136",
+    "text": "- baby outcomes (for example, mortality, birthweight)\n\n- childhood outcomes (for example, cognitive development).\n\n# 3 Psychological interventions focused on the **mother-baby relationship**",
+    "char_count": 190
+  },
+  {
+    "chunk_id": "p39_c007",
+    "page_number": 39,
+    "section_number": "",
+    "section_title": "3 Psychological interventions focused on the **mother-baby relationship",
+    "source": "NICE_Hypertension_NG136",
+    "text": "# 3 Psychological interventions focused on the **mother-baby relationship**\n\nAre interventions designed to improve the quality of the mother–baby relationship in the first year after childbirth effective in women with a diagnosed mental health problem?\n\n48",
+    "char_count": 256
+  },
+  {
+    "chunk_id": "p40_c000",
+    "page_number": 40,
+    "section_number": "",
+    "section_title": "Why this is important",
+    "source": "NICE_Hypertension_NG136",
+    "text": "Antenatal and postnatal mental health: clinical management and service guidance (CG192)\n\n# **Why this is important**",
+    "char_count": 116
+  },
+  {
+    "chunk_id": "p40_c001",
+    "page_number": 40,
+    "section_number": "",
+    "section_title": "",
+    "source": "NICE_Hypertension_NG136",
+    "text": "Problems in the mother–baby relationship in the first year after childbirth may increase maternal mental health problems and are associated with a range of problems for the baby, including delayed cognitive and emotional development",
+    "char_count": 232
+  },
+  {
+    "chunk_id": "p40_c002",
+    "page_number": 40,
+    "section_number": "",
+    "section_title": "",
+    "source": "NICE_Hypertension_NG136",
+    "text": ". A number of interventions are effective in improving the interaction between women and their babies, but it is not known if these are effective in women with a diagnosed mental health problem.",
+    "char_count": 194
+  },
+  {
+    "chunk_id": "p40_c003",
+    "page_number": 40,
+    "section_number": "",
+    "section_title": "",
+    "source": "NICE_Hypertension_NG136",
+    "text": "The question should be addressed in a randomised controlled trial comparing an intervention (proven to be effective in improving the quality of mother–baby interactions in women without a diagnosed mental health problem) against standard care",
+    "char_count": 242
+  },
+  {
+    "chunk_id": "p40_c004",
+    "page_number": 40,
+    "section_number": "",
+    "section_title": "",
+    "source": "NICE_Hypertension_NG136",
+    "text": ". The trial should report the following outcomes, with a follow-up period of at least 2 years:",
+    "char_count": 94
+  },
+  {
+    "chunk_id": "p40_c005",
+    "page_number": 40,
+    "section_number": "",
+    "section_title": "",
+    "source": "NICE_Hypertension_NG136",
+    "text": "- the mental health of the woman\n\n- the emotional and cognitive development of the baby\n\n- the quality of the interaction.\n\nThe trial should also examine the cost effectiveness of the intervention.",
+    "char_count": 197
+  },
+  {
+    "chunk_id": "p40_c006",
+    "page_number": 40,
+    "section_number": "",
+    "section_title": "4 Structured clinical management for moderate to severe personality disorders in pregnancy and the postnatal period",
+    "source": "NICE_Hypertension_NG136",
+    "text": "The trial should also examine the cost effectiveness of the intervention.\n\n# **4 Structured clinical management for moderate to severe personality disorders in pregnancy and the postnatal period**",
+    "char_count": 196
+  },
+  {
+    "chunk_id": "p40_c007",
+    "page_number": 40,
+    "section_number": "",
+    "section_title": "Why this is important",
+    "source": "NICE_Hypertension_NG136",
+    "text": "Is structured clinical management for moderate to severe personality disorders in pregnancy and the postnatal period effective at improving outcomes for women and their babies?\n\n# **Why this is important**",
+    "char_count": 205
+  },
+  {
+    "chunk_id": "p40_c008",
+    "page_number": 40,
+    "section_number": "",
+    "section_title": "",
+    "source": "NICE_Hypertension_NG136",
+    "text": "Personality disorders are associated with poor engagement with maternity services and perinatal mental health services and this leads to poor mental and physical health outcomes for the woman, fetus and baby",
+    "char_count": 207
+  },
+  {
+    "chunk_id": "p40_c009",
+    "page_number": 40,
+    "section_number": "",
+    "section_title": "",
+    "source": "NICE_Hypertension_NG136",
+    "text": ". The complex psychological interventions that are effective for treating personality disorder may present problems for engagement even in those motivated to seek treatment",
+    "char_count": 172
+  },
+  {
+    "chunk_id": "p40_c010",
+    "page_number": 40,
+    "section_number": "",
+    "section_title": "",
+    "source": "NICE_Hypertension_NG136",
+    "text": ". Structured clinical management is a psychologically informed model of case management, which is effective for treating personality disorder and may have greater flexibility and capacity to engage women with personality disorder in",
+    "char_count": 232
+  },
+  {
+    "chunk_id": "p40_c011",
+    "page_number": 40,
+    "section_number": "",
+    "section_title": "",
+    "source": "NICE_Hypertension_NG136",
+    "text": "48",
+    "char_count": 2
+  },
+  {
+    "chunk_id": "p41_c000",
+    "page_number": 41,
+    "section_number": "",
+    "section_title": "Antenatal and postnatal mental health: clinical management and service guidance (CG192)",
+    "source": "NICE_Hypertension_NG136",
+    "text": "# Antenatal and postnatal mental health: clinical management and service guidance (CG192)\n\npregnancy and the postnatal period.",
+    "char_count": 126
+  },
+  {
+    "chunk_id": "p41_c001",
+    "page_number": 41,
+    "section_number": "",
+    "section_title": "",
+    "source": "NICE_Hypertension_NG136",
+    "text": "The question should be addressed in a randomised controlled trial comparing structured clinical management of personality disorder in pregnancy and the postnatal period against standard care. The trial should report the following outcomes, with a follow-up period of at least 2 years:",
+    "char_count": 284
+  },
+  {
+    "chunk_id": "p41_c002",
+    "page_number": 41,
+    "section_number": "",
+    "section_title": "",
+    "source": "NICE_Hypertension_NG136",
+    "text": "- the mental and physical health of the woman\n\n- the physical health of the fetus\n\n- the mental and physical health of the baby\n\n- the quality of the mother–baby relationship.\n\nThe trial should also examine the cost effectiveness of the intervention.",
+    "char_count": 250
+  },
+  {
+    "chunk_id": "p41_c003",
+    "page_number": 41,
+    "section_number": "",
+    "section_title": "5 Psychological interventions for moderate to severe anxiety disorders in pregnancy",
+    "source": "NICE_Hypertension_NG136",
+    "text": "The trial should also examine the cost effectiveness of the intervention.\n\n# 5 Psychological interventions for moderate to severe anxiety disorders in pregnancy",
+    "char_count": 160
+  },
+  {
+    "chunk_id": "p41_c004",
+    "page_number": 41,
+    "section_number": "",
+    "section_title": "Why this is important",
+    "source": "NICE_Hypertension_NG136",
+    "text": "Are psychological interventions effective for treating moderate to severe anxiety disorders (including obsessive-compulsive disorder, panic disorder, post-traumatic stress disorder and social anxiety disorder) in pregnancy?\n\n## **Why this is important**",
+    "char_count": 253
+  },
+  {
+    "chunk_id": "p41_c005",
+    "page_number": 41,
+    "section_number": "",
+    "section_title": "",
+    "source": "NICE_Hypertension_NG136",
+    "text": "Anxiety disorders are often not identified or treated in pregnancy. In addition, many women who are taking medication for such problems stop taking it when they are pregnant. The development of effective psychological interventions is therefore important",
+    "char_count": 254
+  },
+  {
+    "chunk_id": "p41_c006",
+    "page_number": 41,
+    "section_number": "",
+    "section_title": "",
+    "source": "NICE_Hypertension_NG136",
+    "text": ". The development of effective psychological interventions is therefore important. Although there are effective psychological interventions for anxiety disorders, there is limited evidence about their effectiveness in pregnancy and how these interventions might be adapted for use in pregnant women.",
+    "char_count": 299
+  },
+  {
+    "chunk_id": "p41_c007",
+    "page_number": 41,
+    "section_number": "",
+    "section_title": "",
+    "source": "NICE_Hypertension_NG136",
+    "text": "The question should be addressed by a programme of research evaluating psychological interventions (including individual and group approaches) for moderate to severe anxiety disorders in pregnancy, comprising:\n\n- a development programme to establish the adaptations to effective interventions (for",
+    "char_count": 297
+  },
+  {
+    "chunk_id": "p41_c008",
+    "page_number": 41,
+    "section_number": "",
+    "section_title": "",
+    "source": "NICE_Hypertension_NG136",
+    "text": "- a development programme to establish the adaptations to effective interventions (for\n\n48",
+    "char_count": 90
+  },
+  {
+    "chunk_id": "p42_c000",
+    "page_number": 42,
+    "section_number": "",
+    "section_title": "",
+    "source": "NICE_Hypertension_NG136",
+    "text": "Antenatal and postnatal mental health: clinical management and service guidance (CG192)\n\nexample, mode of delivery, duration, content, and intensity of treatment) that are needed for use in pregnancy\n\n- the testing of the adapted interventions in a series of pilot studies",
+    "char_count": 272
+  },
+  {
+    "chunk_id": "p42_c001",
+    "page_number": 42,
+    "section_number": "",
+    "section_title": "",
+    "source": "NICE_Hypertension_NG136",
+    "text": "- the testing of the adapted interventions in a series of pilot studies\n\n- the testing of the clinical and cost effectiveness of the adapted interventions in large-scale randomised controlled trials",
+    "char_count": 198
+  },
+  {
+    "chunk_id": "p42_c002",
+    "page_number": 42,
+    "section_number": "",
+    "section_title": "",
+    "source": "NICE_Hypertension_NG136",
+    "text": "- the development and testing of a programme for the implementation of psychological interventions for moderate to severe anxiety disorders.\n\n48",
+    "char_count": 144
+  },
+  {
+    "chunk_id": "p43_c000",
+    "page_number": 43,
+    "section_number": "",
+    "section_title": "Context",
+    "source": "NICE_Hypertension_NG136",
+    "text": "Antenatal and postnatal mental health: clinical management and service guidance (CG192)\n\n# Context",
+    "char_count": 98
+  },
+  {
+    "chunk_id": "p43_c001",
+    "page_number": 43,
+    "section_number": "",
+    "section_title": "",
+    "source": "NICE_Hypertension_NG136",
+    "text": "In pregnancy and the postnatal period, many mental health problems have a similar nature, course and potential for relapse as at other times. However, there can be differences; for example, bipolar disorder shows an increased rate of relapse and first presentation in the postnatal period",
+    "char_count": 288
+  },
+  {
+    "chunk_id": "p43_c002",
+    "page_number": 43,
+    "section_number": "",
+    "section_title": "",
+    "source": "NICE_Hypertension_NG136",
+    "text": ". Some changes in mental health state and functioning (such as appetite) may represent normal pregnancy changes, but they may be a symptom of a mental health problem.",
+    "char_count": 166
+  },
+  {
+    "chunk_id": "p43_c003",
+    "page_number": 43,
+    "section_number": "",
+    "section_title": "",
+    "source": "NICE_Hypertension_NG136",
+    "text": "The management of mental health problems during pregnancy and the postnatal period differs from at other times because of the nature of this life stage and the potential impact of any difficulties and treatments on the woman and the baby",
+    "char_count": 237
+  },
+  {
+    "chunk_id": "p43_c004",
+    "page_number": 43,
+    "section_number": "",
+    "section_title": "",
+    "source": "NICE_Hypertension_NG136",
+    "text": ". There are risks associated with taking psychotropic medication in pregnancy and during breastfeeding and risks of stopping medication taken for an existing mental health problem. There is also an increased risk of postpartum psychosis.",
+    "char_count": 237
+  },
+  {
+    "chunk_id": "p43_c005",
+    "page_number": 43,
+    "section_number": "",
+    "section_title": "",
+    "source": "NICE_Hypertension_NG136",
+    "text": "Depression and anxiety are the most common mental health problems during pregnancy, with around 12% of women experiencing depression and 13% experiencing anxiety at some point; many women will experience both. Depression and anxiety also affect 15 to 20% of women in the first year after childbirth",
+    "char_count": 298
+  },
+  {
+    "chunk_id": "p43_c006",
+    "page_number": 43,
+    "section_number": "",
+    "section_title": "",
+    "source": "NICE_Hypertension_NG136",
+    "text": ". During pregnancy and the postnatal period, anxiety disorders, including panic disorder, generalised anxiety disorder (GAD), obsessive compulsive disorder (OCD), post-traumatic stress disorder (PTSD) and tokophobia (an extreme fear of childbirth), can occur on their own or can coexist with",
+    "char_count": 291
+  },
+  {
+    "chunk_id": "p43_c007",
+    "page_number": 43,
+    "section_number": "",
+    "section_title": "",
+    "source": "NICE_Hypertension_NG136",
+    "text": "(PTSD) and tokophobia (an extreme fear of childbirth), can occur on their own or can coexist with depression",
+    "char_count": 108
+  },
+  {
+    "chunk_id": "p43_c008",
+    "page_number": 43,
+    "section_number": "",
+    "section_title": "",
+    "source": "NICE_Hypertension_NG136",
+    "text": ". Psychosis can re-emerge or be exacerbated during pregnancy and the postnatal period. Postpartum psychosis affects between 1 and 2 in 1,000 women who have given birth",
+    "char_count": 167
+  },
+  {
+    "chunk_id": "p43_c009",
+    "page_number": 43,
+    "section_number": "",
+    "section_title": "",
+    "source": "NICE_Hypertension_NG136",
+    "text": ". Postpartum psychosis affects between 1 and 2 in 1,000 women who have given birth. Women with bipolar I disorder are at particular risk, but postpartum psychosis can occur in women with no previous psychiatric history.",
+    "char_count": 219
+  },
+  {
+    "chunk_id": "p43_c010",
+    "page_number": 43,
+    "section_number": "",
+    "section_title": "",
+    "source": "NICE_Hypertension_NG136",
+    "text": "Changes to body shape, including weight gain, in pregnancy and after childbirth may be a concern for women with an eating disorder. Although the prevalence of anorexia nervosa and bulimia nervosa is lower in pregnant women, the prevalence of binge eating disorder is higher",
+    "char_count": 273
+  },
+  {
+    "chunk_id": "p43_c011",
+    "page_number": 43,
+    "section_number": "",
+    "section_title": "",
+    "source": "NICE_Hypertension_NG136",
+    "text": ". Smoking and the use of illicit drugs and alcohol in pregnancy are common, and prematurity, intrauterine growth restriction and fetal compromise are more common in women who use these substances, particularly women who smoke.",
+    "char_count": 226
+  },
+  {
+    "chunk_id": "p43_c012",
+    "page_number": 43,
+    "section_number": "",
+    "section_title": "",
+    "source": "NICE_Hypertension_NG136",
+    "text": "Between 2006 and 2008 there were 1.27 maternal deaths per 100,000 maternal deliveries in the UK as a result of mental health problems. Although response to treatment for mental",
+    "char_count": 176
+  },
+  {
+    "chunk_id": "p44_c000",
+    "page_number": 44,
+    "section_number": "",
+    "section_title": "",
+    "source": "NICE_Hypertension_NG136",
+    "text": "Antenatal and postnatal mental health: clinical management and service guidance (CG192)",
+    "char_count": 87
+  },
+  {
+    "chunk_id": "p44_c001",
+    "page_number": 44,
+    "section_number": "",
+    "section_title": "",
+    "source": "NICE_Hypertension_NG136",
+    "text": "health problems is good, these problems frequently go unrecognised and untreated in pregnancy and the postnatal period. If untreated, women can continue to have symptoms, sometimes for many years, and these can also affect their babies and other family members.",
+    "char_count": 261
+  },
+  {
+    "chunk_id": "p44_c002",
+    "page_number": 44,
+    "section_number": "",
+    "section_title": "",
+    "source": "NICE_Hypertension_NG136",
+    "text": "This guideline makes recommendations for the recognition, assessment, care and treatment of mental health problems in women during pregnancy and the postnatal period (up to 1 year after childbirth) and in women who are planning a pregnancy",
+    "char_count": 239
+  },
+  {
+    "chunk_id": "p44_c003",
+    "page_number": 44,
+    "section_number": "",
+    "section_title": "",
+    "source": "NICE_Hypertension_NG136",
+    "text": ". The guideline covers depression, anxiety disorders, eating disorders, drug and alcohol use disorders and severe mental illness (such as psychosis, bipolar disorder, schizophrenia and severe depression). It covers subthreshold symptoms as well as mild, moderate and severe mental health problems",
+    "char_count": 296
+  },
+  {
+    "chunk_id": "p44_c004",
+    "page_number": 44,
+    "section_number": "",
+    "section_title": "",
+    "source": "NICE_Hypertension_NG136",
+    "text": ". It covers subthreshold symptoms as well as mild, moderate and severe mental health problems. However, the guideline focuses on aspects of expression, risks and management that are of special relevance in pregnancy and the postnatal period.",
+    "char_count": 241
+  },
+  {
+    "chunk_id": "p44_c005",
+    "page_number": 44,
+    "section_number": "",
+    "section_title": "",
+    "source": "NICE_Hypertension_NG136",
+    "text": "The recommendations are relevant to all healthcare professionals who recognise, assess and refer for or provide interventions for mental health problems in pregnancy and the postnatal period",
+    "char_count": 190
+  },
+  {
+    "chunk_id": "p44_c006",
+    "page_number": 44,
+    "section_number": "",
+    "section_title": "",
+    "source": "NICE_Hypertension_NG136",
+    "text": ". It will also be relevant to non-NHS services, such as social services and the voluntary and private sectors, but does not make specific recommendations for these",
+    "char_count": 163
+  },
+  {
+    "chunk_id": "p44_c007",
+    "page_number": 44,
+    "section_number": "",
+    "section_title": "",
+    "source": "NICE_Hypertension_NG136",
+    "text": ". The guideline also makes recommendations about the primary and secondary care services needed to support the effective identification and treatment of most mental health problems in pregnancy and the postnatal period",
+    "char_count": 218
+  },
+  {
+    "chunk_id": "p44_c008",
+    "page_number": 44,
+    "section_number": "",
+    "section_title": "",
+    "source": "NICE_Hypertension_NG136",
+    "text": ". This guideline should be read in conjunction with other NICE guidelines on the treatment and management of specific mental health problems. The guideline indicates where modifications to treatment and management are needed in pregnancy and the postnatal period.",
+    "char_count": 263
+  },
+  {
+    "chunk_id": "p44_c009",
+    "page_number": 44,
+    "section_number": "",
+    "section_title": "Medicines",
+    "source": "NICE_Hypertension_NG136",
+    "text": "The guideline draws on the best available evidence. However, there are significant limitations to the evidence base, including limited data on the risks of psychotropic medication in pregnancy and during breastfeeding.\n\n# Medicines",
+    "char_count": 231
+  },
+  {
+    "chunk_id": "p44_c010",
+    "page_number": 44,
+    "section_number": "",
+    "section_title": "",
+    "source": "NICE_Hypertension_NG136",
+    "text": "No psychotropic medication has a UK marketing authorisation specifically for women who are pregnant or breastfeeding. The prescriber should follow relevant professional guidance, taking full responsibility for the decision",
+    "char_count": 222
+  },
+  {
+    "chunk_id": "p44_c011",
+    "page_number": 44,
+    "section_number": "",
+    "section_title": "",
+    "source": "NICE_Hypertension_NG136",
+    "text": ". The woman (or those with authority to give consent on her behalf) should provide informed consent, which should be documented. See the General Medical Council's good practice in prescribing and managing medicines and devices for further information",
+    "char_count": 250
+  },
+  {
+    "chunk_id": "p44_c012",
+    "page_number": 44,
+    "section_number": "",
+    "section_title": "",
+    "source": "NICE_Hypertension_NG136",
+    "text": ". Where recommendations have been made for the use of medicines outside their licensed indications ('off-label use'),",
+    "char_count": 117
+  },
+  {
+    "chunk_id": "p44_c013",
+    "page_number": 44,
+    "section_number": "",
+    "section_title": "",
+    "source": "NICE_Hypertension_NG136",
+    "text": "48",
+    "char_count": 2
+  },
+  {
+    "chunk_id": "p45_c000",
+    "page_number": 45,
+    "section_number": "",
+    "section_title": "",
+    "source": "NICE_Hypertension_NG136",
+    "text": "Antenatal and postnatal mental health: clinical management and service guidance (CG192)\n\n**these medicines are marked in the recommendations.**\n\n48",
+    "char_count": 147
+  },
+  {
+    "chunk_id": "p46_c000",
+    "page_number": 46,
+    "section_number": "",
+    "section_title": "Finding more information and committee details",
+    "source": "NICE_Hypertension_NG136",
+    "text": "Antenatal and postnatal mental health: clinical management and service guidance (CG192)\n\n# Finding more information and committee details\n\nTo find NICE guidance on related topics, including guidance in development, see the NICE topic pages on pregnancy and mental health and wellbeing.",
+    "char_count": 285
+  },
+  {
+    "chunk_id": "p46_c001",
+    "page_number": 46,
+    "section_number": "",
+    "section_title": "",
+    "source": "NICE_Hypertension_NG136",
+    "text": "For full details of the evidence and the guideline committee's discussions, see the full guideline and appendices. You can also find information about how the guideline was developed, including details of the committee.",
+    "char_count": 219
+  },
+  {
+    "chunk_id": "p46_c002",
+    "page_number": 46,
+    "section_number": "",
+    "section_title": "",
+    "source": "NICE_Hypertension_NG136",
+    "text": "NICE has produced tools and resources to help you put this guideline into practice. For general help and advice on putting our guidelines into practice, see resources to help you put NICE guidance into practice.\n\n48",
+    "char_count": 215
+  },
+  {
+    "chunk_id": "p47_c000",
+    "page_number": 47,
+    "section_number": "",
+    "section_title": "Update information",
+    "source": "NICE_Hypertension_NG136",
+    "text": "Antenatal and postnatal mental health: clinical management and service guidance (CG192)\n\n# Update information",
+    "char_count": 109
+  },
+  {
+    "chunk_id": "p47_c001",
+    "page_number": 47,
+    "section_number": "",
+    "section_title": "Update information",
+    "source": "NICE_Hypertension_NG136",
+    "text": "# Update information\n\n**May 2021:** We linked to the updated Medicines and Healthcare products Regulatory\nAgency (MHRA) safety advice on anti-epileptic drugs in pregnancy in recommendations 1.2.2, 1.4.31 and 1.4.32.",
+    "char_count": 215
+  },
+  {
+    "chunk_id": "p47_c002",
+    "page_number": 47,
+    "section_number": "",
+    "section_title": "",
+    "source": "NICE_Hypertension_NG136",
+    "text": "**February 2021:** In recommendation 1.4.16 we highlighted the MHRA drug safety update about a small increased risk of postpartum haemorrhage with SSRI and SNRI antidepressant medicines when used in the month before delivery.",
+    "char_count": 225
+  },
+  {
+    "chunk_id": "p47_c003",
+    "page_number": 47,
+    "section_number": "",
+    "section_title": "",
+    "source": "NICE_Hypertension_NG136",
+    "text": "**February 2020:** We amended recommendations on anticonvulsants for mental health problems in line with the MHRA guidance on valproate use by women and girls",
+    "char_count": 158
+  },
+  {
+    "chunk_id": "p47_c004",
+    "page_number": 47,
+    "section_number": "",
+    "section_title": "",
+    "source": "NICE_Hypertension_NG136",
+    "text": ". The MHRA states that valproate must not be used in women and girls of childbearing potential (including young girls who are likely to need treatment into their childbearing years), unless other options are unsuitable and the pregnancy prevention programme is in place",
+    "char_count": 269
+  },
+  {
+    "chunk_id": "p47_c005",
+    "page_number": 47,
+    "section_number": "",
+    "section_title": "",
+    "source": "NICE_Hypertension_NG136",
+    "text": ". We amended recommendations by moving cautions and links to the MHRA's latest advice on valproate into the recommendations.",
+    "char_count": 124
+  },
+  {
+    "chunk_id": "p47_c006",
+    "page_number": 47,
+    "section_number": "",
+    "section_title": "",
+    "source": "NICE_Hypertension_NG136",
+    "text": "Medicines containing valproate taken in pregnancy can cause malformations in 11% of babies and developmental disorders in 30 to 40% of children after birth",
+    "char_count": 155
+  },
+  {
+    "chunk_id": "p47_c007",
+    "page_number": 47,
+    "section_number": "",
+    "section_title": "",
+    "source": "NICE_Hypertension_NG136",
+    "text": ". Valproate treatment must not be used in girls and women including in young girls below the age of puberty, unless alternative treatments are not suitable and unless the terms of the pregnancy prevention programme are met",
+    "char_count": 222
+  },
+  {
+    "chunk_id": "p47_c008",
+    "page_number": 47,
+    "section_number": "",
+    "section_title": "",
+    "source": "NICE_Hypertension_NG136",
+    "text": ". This programme includes assessment of patients for the potential of becoming pregnant; pregnancy tests; counselling patients about the risks of valproate treatment; explaining the need for effective contraception throughout treatment; regular (at least annual) reviews of treatment by a specialist,",
+    "char_count": 300
+  },
+  {
+    "chunk_id": "p47_c009",
+    "page_number": 47,
+    "section_number": "",
+    "section_title": "",
+    "source": "NICE_Hypertension_NG136",
+    "text": "contraception throughout treatment; regular (at least annual) reviews of treatment by a specialist, and completion of a risk acknowledgement form",
+    "char_count": 145
+  },
+  {
+    "chunk_id": "p47_c010",
+    "page_number": 47,
+    "section_number": "",
+    "section_title": "",
+    "source": "NICE_Hypertension_NG136",
+    "text": ". In pregnancy, valproate is contraindicated, and an alternative treatment should be decided on, with appropriate specialist consultation. See the MHRA toolkit to ensure female patients are better informed about",
+    "char_count": 211
+  },
+  {
+    "chunk_id": "p47_c011",
+    "page_number": 47,
+    "section_number": "",
+    "section_title": "",
+    "source": "NICE_Hypertension_NG136",
+    "text": "the risks of taking valproate during pregnancy.",
+    "char_count": 47
+  },
+  {
+    "chunk_id": "p47_c012",
+    "page_number": 47,
+    "section_number": "",
+    "section_title": "",
+    "source": "NICE_Hypertension_NG136",
+    "text": "**June 2015:** Corrected timescales for GAD-2 in recommendation 1.5.4.\n\n**December 2014:** New recommendations were added after a review of the evidence.\n\nThese recommendations are marked as [2014]. Recommendations are marked as [2007] when the evidence was last reviewed in 2007.\n\n48",
+    "char_count": 284
+  },
+  {
+    "chunk_id": "p48_c000",
+    "page_number": 48,
+    "section_number": "",
+    "section_title": "Minor changes since publication",
+    "source": "NICE_Hypertension_NG136",
+    "text": "Antenatal and postnatal mental health: clinical management and service guidance (CG192)\n\n# Minor changes since publication\n\n**April 2025**: We added links to MHRA safety advice on use of valproate in people younger than 55 years in recommendations 1.2.3, 1.4.27 and 1.9.8.\n\n## July 2024:",
+    "char_count": 287
+  },
+  {
+    "chunk_id": "p48_c001",
+    "page_number": 48,
+    "section_number": "",
+    "section_title": "",
+    "source": "NICE_Hypertension_NG136",
+    "text": "**July 2024**: We have simplified the guideline by removing recommendations on general principles of care that are covered in other NICE guidelines (for example, the NICE guideline on service user experience in adult mental health)",
+    "char_count": 231
+  },
+  {
+    "chunk_id": "p48_c002",
+    "page_number": 48,
+    "section_number": "",
+    "section_title": "",
+    "source": "NICE_Hypertension_NG136",
+    "text": ". This is a presentational change only, and no changes to practice are intended.",
+    "char_count": 80
+  },
+  {
+    "chunk_id": "p48_c003",
+    "page_number": 48,
+    "section_number": "",
+    "section_title": "",
+    "source": "NICE_Hypertension_NG136",
+    "text": "ISBN:\n\nISBN: 978-1-4731-0875-2\n\n978-1-4731-0875-2\n\n48",
+    "char_count": 53
+  }
+]

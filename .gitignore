@@ -22,8 +22,6 @@ Thumbs.db.env
 # Local Chroma database
 chroma_db/
 
-# Local data
-data/
 
 # Test files
 groq_test.py
