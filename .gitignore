@@ -18,3 +18,14 @@ env/
 Thumbs.db.env
 
 .env
+
+# Local Chroma database
+chroma_db/
+
+# Local data
+data/
+
+# Test files
+groq_test.py
+test_rag.py
+rag_llm.py
