@@ -8,7 +8,7 @@ from rag_engine import retrieve
 # ============================================================
 
 st.set_page_config(
-    page_title="Cliniq RAG",
+    page_title="404: Hallucination Not Found",
     page_icon="✦",
     layout="wide",
     initial_sidebar_state="expanded"
@@ -24,16 +24,33 @@ st.markdown(
     <style>
 
     /* ======================================================
+       COLOR PALETTE
+       ====================================================== */
+
+    :root {
+        --green: #3D6B5C;
+        --blue-gray: #5C747D;
+        --cream: #F4F1EA;
+        --dark: #26352F;
+        --muted: #687873;
+        --white: #FFFFFF;
+        --border: #D9DDD7;
+        --soft-green: #E7EEE9;
+        --soft-blue: #E8EEF0;
+    }
+
+
+    /* ======================================================
        GLOBAL
        ====================================================== */
 
     .stApp {
-        background-color: #0B0F14;
-        color: #E8EDF3;
+        background-color: var(--cream);
+        color: var(--dark);
     }
 
     .main .block-container {
-        max-width: 1180px;
+        max-width: 1150px;
         padding-top: 35px;
         padding-bottom: 60px;
     }
@@ -48,30 +65,69 @@ st.markdown(
        ====================================================== */
 
     section[data-testid="stSidebar"] {
-        background-color: #0F141A;
-        border-right: 1px solid #202832;
+        background-color: var(--green);
+        border-right: none;
     }
 
     section[data-testid="stSidebar"] .block-container {
-        padding: 30px 20px;
+        padding: 30px 22px;
     }
 
-    section[data-testid="stSidebar"] .stButton > button {
-        width: 100%;
-        text-align: left;
-        background-color: transparent;
-        border: none;
-        color: #AAB4BF;
-        padding: 10px 12px;
-        border-radius: 8px;
-        font-size: 13px;
-        margin-bottom: 4px;
+    section[data-testid="stSidebar"] p {
+        color: #DCE6E1 !important;
     }
 
-    section[data-testid="stSidebar"] .stButton > button:hover {
-        background-color: #17211F;
-        color: #69DDB7;
-        border: none;
+    section[data-testid="stSidebar"] hr {
+        border-color: rgba(255,255,255,0.18) !important;
+    }
+
+    .sidebar-logo {
+        color: #FFFFFF;
+        font-size: 22px;
+        font-weight: 800;
+        line-height: 1.2;
+        letter-spacing: -0.6px;
+        margin-bottom: 7px;
+    }
+
+    .sidebar-logo span {
+        color: #C9DDD5;
+    }
+
+    .sidebar-description {
+        color: #D5E2DD;
+        font-size: 12px;
+        line-height: 1.5;
+        margin-bottom: 25px;
+    }
+
+    .sidebar-heading {
+        color: #BFD3CB;
+        font-size: 10px;
+        font-weight: 800;
+        letter-spacing: 1.4px;
+        text-transform: uppercase;
+        margin-top: 20px;
+        margin-bottom: 12px;
+    }
+
+    .sidebar-item {
+        color: #E8F0EC;
+        font-size: 12px;
+        margin: 9px 0;
+    }
+
+    .sidebar-dot {
+        color: #BBD4CA;
+        margin-right: 7px;
+    }
+
+    .sidebar-footer {
+        position: fixed;
+        bottom: 20px;
+        color: #BFD3CB;
+        font-size: 10px;
+        line-height: 1.5;
     }
 
 
@@ -80,21 +136,29 @@ st.markdown(
        ====================================================== */
 
     h1 {
-        color: #F4F7FA !important;
-        font-size: 32px !important;
-        letter-spacing: -1px;
+        color: var(--dark) !important;
+        font-size: 38px !important;
+        font-weight: 800 !important;
+        letter-spacing: -1.5px !important;
+        margin-bottom: 5px !important;
     }
 
     h2 {
-        color: #E8EDF3 !important;
+        color: var(--dark) !important;
+        font-size: 24px !important;
+        font-weight: 750 !important;
     }
 
     h3 {
-        color: #E8EDF3 !important;
+        color: var(--dark) !important;
     }
 
     p {
-        color: #AAB4BF;
+        color: var(--muted);
+    }
+
+    label {
+        color: var(--dark) !important;
     }
 
 
@@ -103,63 +167,145 @@ st.markdown(
        ====================================================== */
 
     .eyebrow {
-        color: #62D9B2;
-        font-size: 11px;
-        font-weight: 700;
-        letter-spacing: 1.5px;
+        color: var(--green);
+        font-size: 10px;
+        font-weight: 800;
+        letter-spacing: 1.8px;
         text-transform: uppercase;
-        margin-bottom: 6px;
+        margin-bottom: 7px;
     }
 
     .subtitle {
-        color: #788592;
+        color: var(--muted);
         font-size: 14px;
-        margin-top: -8px;
-        margin-bottom: 25px;
+        line-height: 1.6;
+        max-width: 650px;
+        margin-bottom: 20px;
+    }
+
+    .project-tag {
+        display: inline-block;
+        background-color: var(--soft-green);
+        color: var(--green);
+        border: 1px solid #CBDAD3;
+        border-radius: 20px;
+        padding: 7px 12px;
+        font-size: 11px;
+        font-weight: 700;
     }
 
 
     /* ======================================================
-       QUESTION INPUT
+       QUESTION AREA
        ====================================================== */
 
-    label {
-        color: #C4CDD6 !important;
+    .question-label {
+        color: var(--dark);
+        font-size: 15px;
+        font-weight: 750;
+        margin-bottom: 4px;
+    }
+
+    .question-help {
+        color: var(--muted);
+        font-size: 12px;
+        margin-bottom: 10px;
     }
 
     div[data-testid="stTextArea"] textarea {
-        background-color: #11171E !important;
-        color: #E8EDF3 !important;
-        border: 1px solid #29333E !important;
-        border-radius: 10px !important;
+        background-color: #FFFFFF !important;
+        color: var(--dark) !important;
+        border: 1px solid var(--border) !important;
+        border-radius: 12px !important;
         font-size: 14px !important;
-        padding: 14px !important;
+        line-height: 1.6 !important;
+        padding: 15px !important;
+        box-shadow: 0 2px 8px rgba(38,53,47,0.04) !important;
     }
 
     div[data-testid="stTextArea"] textarea:focus {
-        border-color: #55C8A4 !important;
-        box-shadow: 0 0 0 1px #55C8A4 !important;
+        border-color: var(--green) !important;
+        box-shadow: 0 0 0 1px var(--green) !important;
     }
 
 
     /* ======================================================
-       MAIN BUTTON
+       BUTTON
        ====================================================== */
 
     .stButton > button {
-        background-color: #62D9B2;
-        color: #07100D;
+        background-color: var(--green);
+        color: #FFFFFF;
         border: none;
-        border-radius: 8px;
+        border-radius: 9px;
         font-weight: 700;
         font-size: 13px;
-        min-height: 42px;
+        min-height: 43px;
+        padding: 0 20px;
+        transition: all 0.15s ease;
     }
 
     .stButton > button:hover {
-        background-color: #79E5C3;
-        color: #07100D;
+        background-color: #31594C;
+        color: #FFFFFF;
         border: none;
+        transform: translateY(-1px);
+    }
+
+
+    /* ======================================================
+       STATUS
+       ====================================================== */
+
+    .ready-box {
+        background-color: var(--soft-green);
+        border: 1px solid #CBDAD3;
+        border-radius: 20px;
+        padding: 8px 13px;
+        color: var(--green);
+        font-size: 10px;
+        font-weight: 800;
+        text-align: center;
+        letter-spacing: 0.5px;
+    }
+
+
+    /* ======================================================
+       ANSWER CARD
+       ====================================================== */
+
+    .answer-card {
+        background-color: #FFFFFF;
+        border: 1px solid var(--border);
+        border-left: 4px solid var(--green);
+        border-radius: 13px;
+        padding: 23px 25px;
+        margin-top: 10px;
+        margin-bottom: 25px;
+        box-shadow: 0 3px 12px rgba(38,53,47,0.05);
+    }
+
+    .answer-label {
+        color: var(--green);
+        font-size: 10px;
+        font-weight: 800;
+        letter-spacing: 1.5px;
+        text-transform: uppercase;
+        margin-bottom: 10px;
+    }
+
+    .answer-text {
+        color: var(--dark);
+        font-size: 15px;
+        line-height: 1.75;
+    }
+
+    .answer-note {
+        color: var(--muted);
+        font-size: 11px;
+        margin-top: 15px;
+        padding-top: 12px;
+        border-top: 1px solid #E5E7E3;
     }
 
 
@@ -168,22 +314,25 @@ st.markdown(
        ====================================================== */
 
     div[data-testid="metric-container"] {
-        background-color: #11171E;
-        border: 1px solid #202A34;
-        border-radius: 10px;
-        padding: 16px;
+        background-color: #FFFFFF;
+        border: 1px solid var(--border);
+        border-radius: 11px;
+        padding: 15px;
+        box-shadow: 0 2px 7px rgba(38,53,47,0.03);
     }
 
     div[data-testid="stMetricLabel"] {
-        color: #71808D !important;
-        font-size: 10px !important;
+        color: var(--muted) !important;
+        font-size: 9px !important;
+        font-weight: 800 !important;
         text-transform: uppercase;
         letter-spacing: 1px;
     }
 
     div[data-testid="stMetricValue"] {
-        color: #F0F4F7 !important;
-        font-size: 25px !important;
+        color: var(--dark) !important;
+        font-size: 24px !important;
+        font-weight: 750 !important;
     }
 
 
@@ -191,16 +340,21 @@ st.markdown(
        EVIDENCE CARDS
        ====================================================== */
 
-    .evidence-box {
-        background-color: #11171E;
-        border: 1px solid #202A34;
-        border-radius: 11px;
-        padding: 18px;
-        margin-bottom: 14px;
+    .evidence-header {
+        color: var(--dark);
+        font-size: 22px;
+        font-weight: 750;
+        margin-top: 10px;
+    }
+
+    .evidence-description {
+        color: var(--muted);
+        font-size: 12px;
+        margin-bottom: 15px;
     }
 
     .evidence-label {
-        color: #62D9B2;
+        color: var(--green);
         font-size: 10px;
         font-weight: 800;
         letter-spacing: 1.2px;
@@ -208,84 +362,36 @@ st.markdown(
     }
 
     .similarity-badge {
-        color: #69DDB7;
-        background-color: #14251F;
-        border: 1px solid #24483C;
-        border-radius: 6px;
+        color: var(--blue-gray);
+        background-color: var(--soft-blue);
+        border: 1px solid #CEDADD;
+        border-radius: 7px;
         padding: 5px 9px;
         font-size: 11px;
-        font-weight: 700;
-    }
-
-    .source-info {
-        color: #8A96A3;
-        font-size: 12px;
-        margin-top: 8px;
-        margin-bottom: 14px;
-    }
-
-    .source-info strong {
-        color: #D1D8DE;
-    }
-
-    .evidence-text {
-        color: #C4CDD6;
-        font-size: 13px;
-        line-height: 1.7;
-        background-color: #0D1217;
-        border-left: 3px solid #315448;
-        border-radius: 4px;
-        padding: 13px 15px;
-    }
-
-
-    /* ======================================================
-       ANSWER BOX
-       ====================================================== */
-
-    .answer-box {
-        background-color: #101C18;
-        border: 1px solid #24483C;
-        border-radius: 11px;
-        padding: 20px;
-        margin-bottom: 20px;
-        color: #DCE6E2;
-        font-size: 15px;
-        line-height: 1.8;
-    }
-
-    .answer-label {
-        color: #62D9B2;
-        font-size: 10px;
         font-weight: 800;
-        letter-spacing: 1.2px;
-        text-transform: uppercase;
-        margin-bottom: 10px;
-    }
-
-
-    /* ======================================================
-       STATUS BOX
-       ====================================================== */
-
-    .ready-box {
-        background-color: #101C18;
-        border: 1px solid #24483C;
-        border-radius: 20px;
-        padding: 7px 13px;
-        color: #69DDB7;
-        font-size: 11px;
-        font-weight: 700;
         text-align: center;
     }
 
+    .source-info {
+        color: var(--muted);
+        font-size: 12px;
+        margin-top: 9px;
+        margin-bottom: 13px;
+    }
 
-    /* ======================================================
-       DIVIDERS
-       ====================================================== */
+    .source-info strong {
+        color: var(--dark);
+    }
 
-    hr {
-        border-color: #202832 !important;
+    .evidence-text {
+        color: #43514C;
+        font-size: 13px;
+        line-height: 1.75;
+        background-color: #F8F8F5;
+        border: 1px solid #E4E6E1;
+        border-left: 3px solid var(--blue-gray);
+        border-radius: 7px;
+        padding: 14px 16px;
     }
 
 
@@ -294,14 +400,23 @@ st.markdown(
        ====================================================== */
 
     div[data-testid="stExpander"] {
-        background-color: #11171E;
-        border: 1px solid #202A34;
-        border-radius: 10px;
+        background-color: #FFFFFF;
+        border: 1px solid var(--border);
+        border-radius: 9px;
     }
 
 
     /* ======================================================
-       INFO / WARNING
+       DIVIDERS
+       ====================================================== */
+
+    hr {
+        border-color: #D9DDD7 !important;
+    }
+
+
+    /* ======================================================
+       ALERTS
        ====================================================== */
 
     div[data-testid="stAlert"] {
@@ -315,9 +430,12 @@ st.markdown(
 
     .footer-text {
         text-align: center;
-        color: #4F5A65;
+        color: #87938E;
         font-size: 10px;
-        margin-top: 50px;
+        line-height: 1.6;
+        margin-top: 55px;
+        padding-top: 20px;
+        border-top: 1px solid #D9DDD7;
     }
 
     </style>
@@ -333,67 +451,78 @@ st.markdown(
 with st.sidebar:
 
     st.markdown(
-        "## Cliniq<span style='color:#62D9B2;'>RAG</span>",
+        """
+        <div class="sidebar-logo">
+            404<span>: Hallucination Not Found</span>
+        </div>
+        """,
         unsafe_allow_html=True
     )
 
-    st.caption(
-        "Evidence-grounded clinical intelligence"
+    st.markdown(
+        """
+        <div class="sidebar-description">
+            Evidence-grounded clinical intelligence.
+            Ask questions and trace every answer back
+            to the retrieved guideline evidence.
+        </div>
+        """,
+        unsafe_allow_html=True
     )
 
     st.divider()
 
     st.markdown(
-        "**WORKSPACE**"
+        '<div class="sidebar-heading">RETRIEVAL ENGINE</div>',
+        unsafe_allow_html=True
     )
 
-    st.button(
-        "✦  Ask a question",
-        use_container_width=True
-    )
+    st.markdown(
+        """
+        <div class="sidebar-item">
+            <span class="sidebar-dot">●</span>
+            SentenceTransformer embeddings
+        </div>
 
-    st.button(
-        "◷  Query history",
-        use_container_width=True
-    )
+        <div class="sidebar-item">
+            <span class="sidebar-dot">●</span>
+            Chroma vector database
+        </div>
 
-    st.button(
-        "◈  Evidence library",
-        use_container_width=True
+        <div class="sidebar-item">
+            <span class="sidebar-dot">●</span>
+            Cosine similarity retrieval
+        </div>
+        """,
+        unsafe_allow_html=True
     )
 
     st.divider()
 
     st.markdown(
-        "**RETRIEVAL ENGINE**"
+        '<div class="sidebar-heading">DOCUMENT</div>',
+        unsafe_allow_html=True
     )
-
-    st.caption(
-        "SentenceTransformer embeddings"
-    )
-
-    st.caption(
-        "Chroma vector database"
-    )
-
-    st.caption(
-        "Cosine similarity retrieval"
-    )
-
-    st.divider()
 
     st.markdown(
-        "**DOCUMENT**"
+        """
+        <div class="sidebar-item">
+            <span class="sidebar-dot">●</span>
+            NICE Mental Health Guideline
+        </div>
+        """,
+        unsafe_allow_html=True
     )
 
-    st.caption(
-        "NICE Mental Health Guideline"
-    )
-
-    st.divider()
-
-    st.caption(
-        "Clinical RAG prototype"
+    st.markdown(
+        """
+        <div class="sidebar-footer">
+            404: Hallucination Not Found<br>
+            Evidence should always be verified<br>
+            against the original guideline.
+        </div>
+        """,
+        unsafe_allow_html=True
     )
 
 
@@ -418,10 +547,12 @@ with header_left:
     )
 
     st.markdown(
-        '<div class="subtitle">'
-        'Search the indexed clinical guideline and inspect the '
-        'evidence supporting each answer.'
-        '</div>',
+        """
+        <div class="subtitle">
+            Search the indexed clinical guideline and inspect the
+            evidence supporting each answer.
+        </div>
+        """,
         unsafe_allow_html=True
     )
 
@@ -440,28 +571,32 @@ st.divider()
 # QUESTION AREA
 # ============================================================
 
-st.subheader(
-    "Clinical question"
+st.markdown(
+    '<div class="question-label">Clinical question</div>',
+    unsafe_allow_html=True
 )
 
-st.caption(
-    "Ask a question about the information contained in the indexed guideline."
+st.markdown(
+    """
+    <div class="question-help">
+        Ask a question about the information contained in the indexed guideline.
+    </div>
+    """,
+    unsafe_allow_html=True
 )
 
 question = st.text_area(
     "Clinical question",
     placeholder=(
-        "Example: How should healthcare professionals "
-        "manage extreme fear of childbirth?"
+        "Example: How should healthcare professionals manage "
+        "tokophobia or extreme fear of childbirth?"
     ),
     height=110,
     label_visibility="collapsed"
 )
 
 
-button_col, empty_col = st.columns(
-    [1.5, 6]
-)
+button_col, empty_col = st.columns([1.4, 6])
 
 with button_col:
 
@@ -526,35 +661,50 @@ if search_clicked:
         else:
 
             results = response["results"]
-
-            # ------------------------------------------------
-            # CLINICAL ANSWER
-            # ------------------------------------------------
+            answer = response["answer"]
 
             st.divider()
 
-            st.subheader(
-                "Clinical answer"
-            )
+
+            # =================================================
+            # CLINICAL ANSWER
+            # =================================================
 
             st.markdown(
-                f'<div class="answer-box">'
-                f'<div class="answer-label">GROUNDED RESPONSE</div>'
-                f'{response["answer"]}'
-                f'</div>',
+                '<div class="evidence-header">Clinical answer</div>',
                 unsafe_allow_html=True
             )
 
-            st.caption(
-                "Answer generated only from the retrieved guideline evidence."
+            st.markdown(
+                """
+                <div class="answer-card">
+                    <div class="answer-label">
+                        GROUNDED RESPONSE
+                    </div>
+                """,
+                unsafe_allow_html=True
+            )
+
+            st.markdown(
+                f'<div class="answer-text">{answer}</div>',
+                unsafe_allow_html=True
+            )
+
+            st.markdown(
+                """
+                    <div class="answer-note">
+                        Answer generated only from the retrieved
+                        guideline evidence.
+                    </div>
+                </div>
+                """,
+                unsafe_allow_html=True
             )
 
 
-            # ------------------------------------------------
+            # =================================================
             # RESULTS HEADER
-            # ------------------------------------------------
-
-            st.divider()
+            # =================================================
 
             result_title, result_info = st.columns(
                 [4, 2],
@@ -563,8 +713,11 @@ if search_clicked:
 
             with result_title:
 
-                st.subheader(
-                    "Retrieval results"
+                st.markdown(
+                    '<div class="evidence-header">'
+                    'Retrieval results'
+                    '</div>',
+                    unsafe_allow_html=True
                 )
 
             with result_info:
@@ -574,9 +727,9 @@ if search_clicked:
                 )
 
 
-            # ------------------------------------------------
+            # =================================================
             # METRICS
-            # ------------------------------------------------
+            # =================================================
 
             metric1, metric2, metric3 = st.columns(3)
 
@@ -610,16 +763,25 @@ if search_clicked:
             st.write("")
 
 
-            # ------------------------------------------------
+            # =================================================
             # SUPPORTING EVIDENCE
-            # ------------------------------------------------
+            # =================================================
 
-            st.subheader(
-                "Supporting evidence"
+            st.markdown(
+                '<div class="evidence-header">'
+                'Supporting evidence'
+                '</div>',
+                unsafe_allow_html=True
             )
 
-            st.caption(
-                "The passages below were retrieved from the indexed guideline."
+            st.markdown(
+                """
+                <div class="evidence-description">
+                    The passages below were retrieved from the
+                    indexed clinical guideline.
+                </div>
+                """,
+                unsafe_allow_html=True
             )
 
 
@@ -630,27 +792,15 @@ if search_clicked:
             for result in results:
 
                 rank = result["rank"]
-
                 similarity = result["similarity"]
-
                 page = result["page"]
-
                 source = result["source"]
-
                 section_number = result["section_number"]
-
                 section_title = result["section_title"]
-
                 text = result["text"]
 
 
-                # --------------------------------------------
-                # CARD
-                # --------------------------------------------
-
-                with st.container(
-                    border=True
-                ):
+                with st.container(border=True):
 
                     top_left, top_right = st.columns(
                         [5, 1],
@@ -676,11 +826,15 @@ if search_clicked:
                         )
 
 
-                    # ----------------------------------------
+                    # -----------------------------------------
                     # SOURCE INFORMATION
-                    # ----------------------------------------
+                    # -----------------------------------------
 
-                    source_name = source or "NICE Mental Health Guideline"
+                    source_name = (
+                        "NICE Mental Health Guideline"
+                        if source
+                        else "Clinical guideline"
+                    )
 
                     metadata_parts = [
                         f"**{source_name}**"
@@ -716,15 +870,14 @@ if search_clicked:
                             section_info
                         )
 
-
                     st.markdown(
                         "  ·  ".join(metadata_parts)
                     )
 
 
-                    # ----------------------------------------
-                    # EVIDENCE TEXT
-                    # ----------------------------------------
+                    # -----------------------------------------
+                    # EVIDENCE
+                    # -----------------------------------------
 
                     st.markdown(
                         "##### Evidence excerpt"
@@ -738,9 +891,9 @@ if search_clicked:
                     )
 
 
-                    # ----------------------------------------
+                    # -----------------------------------------
                     # DETAILS
-                    # ----------------------------------------
+                    # -----------------------------------------
 
                     with st.expander(
                         "View retrieval details"
@@ -781,11 +934,13 @@ if search_clicked:
 # ============================================================
 
 st.markdown(
-    "<div class='footer-text'>"
-    "Cliniq RAG · Retrieval-Augmented Clinical Decision Support"
-    "<br>"
-    "Answers are generated from retrieved evidence and should be "
-    "verified against the original guideline."
-    "</div>",
+    """
+    <div class="footer-text">
+        404: Hallucination Not Found · Retrieval-Augmented Clinical Decision Support
+        <br>
+        Answers are generated from retrieved evidence and should be verified
+        against the original guideline.
+    </div>
+    """,
     unsafe_allow_html=True
 )
