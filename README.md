@@ -231,28 +231,6 @@ This system is a **decision support tool only**. It is not a substitute for clin
 
 ---
 
-## 👥 Team
-
-| Name | Role |
-|---|---|
-| Hasnaa Aboelhana | Team Member |
-| Arwa Eisa | Team Member |
-| Ereny Habib | Team Member |
-| Marym Waled | Team Member |
-| Warda | Team Member |
-
-**Instructor:** Jumana Mahammed
-**Mentor:** Mahmoud Mostafa
-**Program:** DEPI Machine Learning Track · 2025
-
----
-
-## 📄 License
-
-This project is licensed under the MIT License. See [LICENSE](LICENSE) for details.
-
----
-
 <p align="center">
   <em>Halting AI Hallucination, Healing Trust.</em>
 </p>
